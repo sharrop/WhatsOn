@@ -1,0 +1,108 @@
+<html>
+<style>
+  .item1 {
+    grid-area: header;
+    text-align: center;
+    font-size: 30px;
+  }
+
+  .item2 {
+    grid-area: menu;
+    text-align: left;
+    font-size: 15px;
+    max-width: fit-content;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  .item3 {
+    grid-area: main;
+    text-align: center;
+    width: 100%;
+    height: 100%;
+    min-height: 600;
+  }
+
+  .grid-container {
+    display: grid;
+    grid-template-areas:
+      'header header header header header header'
+      'menu main main main main main';
+    gap: 10px;
+    background-color: #2196F3;
+    padding: 10px;
+    columns: 2;
+  }
+
+  .grid-container>div {
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 10px 0;
+  }
+</style>
+</head>
+
+<body>
+  <div class="grid-container">
+    <div class="item1">Whats On</div>
+    <div class="item2" id="index">
+      <lu><b>Newbury</b>
+        <li><a href="https://arlingtonarts.ticketsolve.com/ticketbooth/shows">Arlington Arts</a></li>
+        <li><a href="https://cornexchangenew.com/events">Corn Exchange</a></li>
+        <li><a href="https://acespace.org.uk/events/">Ace Space</a></li>
+        <li><a href="https://www.watermill.org.uk/">The Watermill</a></li>
+        <li><a href="https://booking.westberks.gov.uk/heritage_events.html">Shaw House</a></li>
+        <li><a href="https://www.wasing.co.uk/events">The Mount, Wasing</a></li>
+        <li><a href="https://www.welfordpark.co.uk/events/">Welford Park</a></li>
+        <li><a href="https://www.highclerecastle.co.uk/events/">Highclere Castle</a></li>
+      </lu><br/>
+      <lu><b>Reading</b>
+        <li><a href="https://www.whatsonreading.com/hexagon/whats-on">Hexagon</a></li>
+        <li><a href="https://www.whatsonreading.com/venues/south-street/whats-on">South Street</a></li>
+        <li><a href="https://whatsonreading.com/venues/concert-hall/whats-on">Concert Hall</a></li>
+      </lu><br/>
+      <lu><b>Winchester</b>
+        <li><a href="https://www.thebestof.co.uk/local/winchester/events/?date-from=&date-to=&category=">Whats On</a></li>
+        <li><a href="https://www.theatreroyalwinchester.co.uk/whats-on/">Theatre Royal</a></li>
+      </lu><br/>
+      <lu><b>Swindon</b>
+        <li><a href="https://www.totalswindon.com/events/all/">Whats On</a></li>
+        <li><a href="https://www.visitswindon.org.uk/events">Visit Swindon</a></li>
+        <li><a href="https://www.ents24.com/swindon-events/wyvern-theatre">Wyvern Theatre</a></li>
+        <li><a href="https://www.waterpark.org/">Cotswold Water Park</a></li>
+      </lu><br/>
+      <lu><b>Oxford</b>
+        <li><a href="https://www.ticketmaster.co.uk/new-theatre-oxford-tickets-oxford/venue/443809">New Theatre</a></li>
+        <li><a href="https://www.ticketmaster.co.uk/jericho-tavern-oxford-tickets-oxford/venue/410724">Jericho Tavern</a></li>
+        <li><a href="https://www.ticketmaster.co.uk/oxford-playhouse-tickets-oxford/venue/256033">Oxford Playhouse</a></li>
+        <li><a href="https://www.blenheimpalace.com/whats-on/">Blenheim Palace</a></li>
+      </lu><br/>
+      <lu><b>Other</b>
+        <li><a href="https://jazzcafesandbanks.co.uk/">The Jazz Café, Poole</a></li>
+      </lu><br/>
+    </div>
+    <!--div class="item3">Main <iframe id="content"></iframe></div-->
+    <iframe class="item3" id="content"></iframe>
+  </div>
+
+  </style>
+
+  <script>
+    var frame = document.getElementById("content");
+    var index = document.getElementById("index");
+
+    function loadPage(url) {
+      frame.src = url;
+    }
+
+    index.onclick = function (e) {
+      if (e.target.tagName === "A") {
+        loadPage(e.target.href);
+        e.preventDefault();
+      }
+    }
+
+    loadPage("page1.html");
+  </script>
+
+</body>
+
+</html>
