@@ -19,9 +19,8 @@ service.start()
 
 driver = webdriver.Remote(service.service_url)
 HOST='https://arlingtonarts.ticketsolve.com'
-driver.get('https://arlingtonarts.ticketsolve.com/ticketbooth/shows')
-sleep(2)
-
+driver.get('https://arlingtonarts.ticketsolve.com/ticketbooth/shows?i=64')
+sleep(5)
 page = driver.page_source
 soup = BeautifulSoup(page, 'html.parser')
 
@@ -127,6 +126,10 @@ for listing in listings:
 
     # Add the event to the calendar
     cal.add_component(event)
+
+driver.execute_script("window.scrollTo({ top: 1000, left: 0, behavior: 'smooth'});")
+sleep(5)
+
 driver.quit()
 
 ics_file = open('arlington.ics', 'wb')

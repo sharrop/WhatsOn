@@ -12,9 +12,9 @@ BEGIN:VEVENT
 SUMMARY:Nick Helm - Comedy Ladder at Arlington Arts Centre
 DTSTART:20240119T193000
 DTEND:20240119T220000
-DTSTAMP:20240102T222030Z
-UID:df9efc3e-df39-41c3-84bf-c8ad367f3cfe
-CREATED:20240102T222030Z
+DTSTAMP:20240102T230454Z
+UID:5090e971-7d38-45ce-bf4b-b3fd3544ead3
+CREATED:20240102T230454Z
 DESCRIPTION:Details Page: https://arlingtonarts.ticketsolve.com/ticketboot
  h/shows/873640718\n\nComedy Ladder at Arlington features some of the b
  est comedians in the UK\, including some you'll recognise off the telly! 
@@ -52,9 +52,9 @@ BEGIN:VEVENT
 SUMMARY:The Arts Society Newbury
 DTSTART:20240123T000000
 DTEND:20240123T000000
-DTSTAMP:20240102T222031Z
-UID:08e02f1c-72c6-45e7-954d-1c3a6404df3d
-CREATED:20240102T222031Z
+DTSTAMP:20240102T230455Z
+UID:4b572220-3f4d-4e01-bce5-e1903561b64c
+CREATED:20240102T230455Z
 DESCRIPTION:Details Page: https://arlingtonarts.ticketsolve.com/ticketboot
  h/shows/873640980\n\nThe Arts Society Newbury hold monthly lectures at Arl
  ington Arts Centre. The next lecture "The Many Faces of William Morris”
@@ -92,9 +92,9 @@ BEGIN:VEVENT
 SUMMARY:Breakout 2024
 DTSTART:20240125T180000
 DTEND:20240125T203000
-DTSTAMP:20240102T222033Z
-UID:e93fcd23-7bba-4d21-b19e-5375d36e1604
-CREATED:20240102T222033Z
+DTSTAMP:20240102T230456Z
+UID:5f9325a5-3c07-413d-b33c-409cd2454cb2
+CREATED:20240102T230456Z
 DESCRIPTION:Details Page: https://arlingtonarts.ticketsolve.com/ticketboot
  h/shows/873642032\n\nTrinity School proudly presents their annual sharing 
  of outstanding dance\, alongside The Downs and Park House Schools. We also
@@ -126,9 +126,9 @@ BEGIN:VEVENT
 SUMMARY:Live/Wire: The AC/DC Show
 DTSTART:20240127T000000
 DTEND:20240127T000000
-DTSTAMP:20240102T222034Z
-UID:9d185c8b-0f77-4e7b-adb9-7c5baf20344c
-CREATED:20240102T222034Z
+DTSTAMP:20240102T230458Z
+UID:9854c5e7-dcab-447b-8eb8-8222bd448405
+CREATED:20240102T230458Z
 DESCRIPTION:Details Page: https://arlingtonarts.ticketsolve.com/ticketboot
  h/shows/873636298\n\nRow F may have a restricted view. To find out more in
  formation please visit our seating plan page.AC/DC\, arguably the greates
@@ -194,11 +194,11 @@ URL:https://arlingtonarts.ticketsolve.com/ticketbooth/shows/873636298
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cloudbusting - The Music of Kate Bush
-DTSTART:20240202T193000
-DTEND:20240202T220000
-DTSTAMP:20240102T222035Z
-UID:5cf0227c-05e9-4b05-923b-6f09926d3dc0
-CREATED:20240102T222035Z
+DTSTART:20240202T000000
+DTEND:20240202T000000
+DTSTAMP:20240102T230459Z
+UID:73310392-ec30-4858-a2db-cd3156e5ce95
+CREATED:20240102T230459Z
 DESCRIPTION:Details Page: https://arlingtonarts.ticketsolve.com/ticketboot
  h/shows/873640365\n\nRow F may have a restricted view. To find out more pl
  ease see our seating plan page.\nRow F may have a restricted view. To fin
@@ -273,9 +273,9 @@ BEGIN:VEVENT
 SUMMARY:The Ultimate Commitments and Blues Brothers Experience
 DTSTART:20240203T190000
 DTEND:20240203T213000
-DTSTAMP:20240102T222036Z
-UID:e4d3e402-1e1b-4774-b798-827396535cbe
-CREATED:20240102T222036Z
+DTSTAMP:20240102T230500Z
+UID:09f1c93c-5e16-45a7-8309-e2aecc31bdb8
+CREATED:20240102T230500Z
 DESCRIPTION:Details Page: https://arlingtonarts.ticketsolve.com/ticketboot
  h/shows/873638295\n\nTwo tribute shows to two cult classics films in one t
  errific night!Two tribute shows to two cult classics films in one terrific
@@ -351,9 +351,9 @@ BEGIN:VEVENT
 SUMMARY:Risking It All
 DTSTART:20240206T183000
 DTEND:20240206T210000
-DTSTAMP:20240102T222038Z
-UID:ee6985a2-026e-4df0-b423-f051c8805b3d
-CREATED:20240102T222038Z
+DTSTAMP:20240102T230502Z
+UID:017b750b-208c-4a11-b55f-2103544bf120
+CREATED:20240102T230502Z
 DESCRIPTION:Details Page: https://arlingtonarts.ticketsolve.com/ticketboot
  h/shows/873642003\n\nA Risking It All performance is taking place\nat Arli
  ngton Arts Centre on Tuesday 06\nFebruary at 7.30pm aimed specifically at\
@@ -405,9 +405,9 @@ BEGIN:VEVENT
 SUMMARY:Laurence Jones
 DTSTART:20240209T190000
 DTEND:20240209T213000
-DTSTAMP:20240102T222039Z
-UID:6afd0049-ba7f-44ed-9710-9701be3dc81e
-CREATED:20240102T222039Z
+DTSTAMP:20240102T230503Z
+UID:d2ee1bd2-c7e4-40f1-aa2f-e5a7a5a63c97
+CREATED:20240102T230503Z
 DESCRIPTION:Details Page: https://arlingtonarts.ticketsolve.com/ticketboot
  h/shows/873636046\n\nRow F may have a restricted view. To find out more in
  formation please visit our seating plan page.seating plan page.Laurence J
@@ -448,9 +448,9 @@ BEGIN:VEVENT
 SUMMARY:Alfie Moore - A Face For Radio
 DTSTART:20240216T190000
 DTEND:20240216T213000
-DTSTAMP:20240102T222040Z
-UID:86ba42a5-8d64-4ef8-8225-701de13b9fc8
-CREATED:20240102T222040Z
+DTSTAMP:20240102T230504Z
+UID:d5fdc851-6a01-4580-b74b-bd287276d6ff
+CREATED:20240102T230504Z
 DESCRIPTION:Details Page: https://arlingtonarts.ticketsolve.com/ticketboot
  h/shows/873635923\n\nSomewhere in a\nparallel universe little Alfie’s na
  tural comedic performance skills were\nrecognised by his doting parents wh
@@ -511,9 +511,9 @@ BEGIN:VEVENT
 SUMMARY:Electromantics
 DTSTART:20240223T000000
 DTEND:20240223T000000
-DTSTAMP:20240102T222041Z
-UID:65563424-f02e-4717-a245-3a53864f297f
-CREATED:20240102T222041Z
+DTSTAMP:20240102T230506Z
+UID:a433e835-8a58-4795-b46a-210e18405fe9
+CREATED:20240102T230506Z
 DESCRIPTION:Details Page: https://arlingtonarts.ticketsolve.com/ticketboot
  h/shows/873641175\n\nRow F may have a restricted view. To find out more pl
  ease see our seating plan page.Row F may have a restricted view. To find 
@@ -597,9 +597,9 @@ BEGIN:VEVENT
 SUMMARY:Kast Off Kinks
 DTSTART:20240225T183000
 DTEND:20240225T210000
-DTSTAMP:20240102T222043Z
-UID:5bb0434a-3169-48b3-8406-0cbf89f51035
-CREATED:20240102T222043Z
+DTSTAMP:20240102T230507Z
+UID:91773c53-e848-4094-a8cb-543f17048c72
+CREATED:20240102T230507Z
 DESCRIPTION:Details Page: https://arlingtonarts.ticketsolve.com/ticketboot
  h/shows/873640796\n\nRow F may have a restricted view. To find out more pl
  ease see our seating plan page.Not to be missed! The Kast off Kinks inclu
@@ -662,9 +662,9 @@ BEGIN:VEVENT
 SUMMARY:mapdance 2024
 DTSTART:20240227T183000
 DTEND:20240227T210000
-DTSTAMP:20240102T222044Z
-UID:50d2527d-983a-4a69-884b-6ef20eca6900
-CREATED:20240102T222044Z
+DTSTAMP:20240102T230508Z
+UID:d0a7ca56-fc8c-4b75-8b49-75d887dfe053
+CREATED:20240102T230508Z
 DESCRIPTION:Details Page: https://arlingtonarts.ticketsolve.com/ticketboot
  h/shows/873642007\n\nTheir diverse repertoire offers\naudiences a refreshi
  ng mixture of gritty dance-theatre\, athletic and fast-paced choreography.
@@ -718,5 +718,1676 @@ IMAGE:https://dc40ra2rfm3rp.cloudfront.net/as-assets/variants/4xscqml3oh5p
  2d4e4be
 LOCATION:Arlington Arts Centre
 URL:https://arlingtonarts.ticketsolve.com/ticketbooth/shows/873642007
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Improvised Shakespeare Show
+DTSTART:20240307T183000
+DTEND:20240307T210000
+DTSTAMP:20240102T230509Z
+UID:9a13e7cd-cb08-4631-ab70-1790423e4d10
+CREATED:20240102T230509Z
+DESCRIPTION:Details Page: https://arlingtonarts.ticketsolve.com/ticketboot
+ h/shows/873637174\n\nShakespeare hasn’t written anything new for an age\
+ , so ShakeItUp thought they would give him a hand…Using his language\,
+  your audience suggestions\, and their overactive imaginations\, ShakeItUp
+  create a brand-new Shakespeare play live on stage\, complete with live mu
+ sic\, songs\, and plenty of laughs. At a ShakeItUp show\, you get to help 
+ their intrepid improvisors make up an entirely new Shakespeare play on the
+  spot! Pick your authentic Shakespearean genre: Epic History\, Romantic Co
+ medy\, or Gruesome Tragedy\; choose the location of where we will lay our 
+ scene\, our hero’s name\, and even their day-job! Pen your wittiest Shak
+ espearean line for our brave actors to pull from their suitably-Shakespear
+ ean breeches when they need a helping hand – the twist? They’ll have n
+ o idea what the line will be before they say it! \n\nThen sit back and wat
+ ch the hilarity unfold as they improvise a totally authentic (and totally 
+ bonkers) play that Willy Shakes himself would be proud of! Accompanied by 
+ improvised song and music from the talented (and flexible) ShakeItUp Band\
+ , expect big laughs\, high drama\, and a healthy dose of rhyming couplets.
+ ShakeItUpFIVE STARS - “Quick witted\,\ninexhaustible and absolutely hyst
+ erical.” - London Theatre ReviewsFIVE STARS - “Quick witted\,\ninexha
+ ustible and absolutely hysterical.” - FIVE STARS -  - London Theatre R
+ eviewsLondon Theatre ReviewsFOUR STARS – “Laugh out-loud\nhilarious [
+ …] a great night out” - Broadway WorldFOUR STARS – “Laugh out-lo
+ ud\nhilarious […] a great night out” - FOUR STARS –  - Broadway 
+ WorldBroadway WorldFOUR STARS – “An authentic\,\nif strange\, work of 
+ Shakespeare” - Upper CircleFOUR STARS – “An authentic\,\nif strange
+ \, work of Shakespeare” - FOUR STARS – - Upper CircleUpper Circle“
+ Alas I wishe I had written this\nmyselffe” - Christopher Marlowehttp://
+ www.shakeituptheatre.co.uk/“Alas I wishe I had written this\nmyselffe”
+  - Christopher MarloweChristopher Marlowehttp://www.shakeituptheatre.co.u
+ k/We are on the site of Mary Hare School\, please stick to the public area
+ s (the auditorium\, foyer\, grass and smoking area to the left hand side o
+ f the venue entrance as you look at it).Doors to the venue open an hour be
+ fore the performance starts\, with the bar starting service at the same ti
+ me. Doors to the auditorium usually open half an hour before a performance
+ .Tickets can be purchased from the box office (which is directly opposite 
+ the entrance doors) during opening hours (10am-4.30pm weekdays)\, as well 
+ as just before and during the show.Our box office and bar accept both card
+  and cash payments. Please note that there is no cash machine on site.FOR 
+ CARER AND ACCESS SEATS\, please call 01635 244 246 – or email boxoffice@
+ arlingtonarts.co.uk.
+IMAGE:https://dc40ra2rfm3rp.cloudfront.net/as-assets/variants/d83hjwutebs0
+ 4miszho2j5kfjh2b/294362d2878890fe167497bc1bbfe533f8178e7563017132ec259173a
+ 2d4e4be
+LOCATION:Arlington Arts Centre
+URL:https://arlingtonarts.ticketsolve.com/ticketbooth/shows/873637174
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:David Eagle: Flying Solo
+DTSTART:20240308T183000
+DTEND:20240308T210000
+DTSTAMP:20240102T230511Z
+UID:17852a9b-cb03-42c8-91ba-65f21b95ac3d
+CREATED:20240102T230511Z
+DESCRIPTION:Details Page: https://arlingtonarts.ticketsolve.com/ticketboot
+ h/shows/873642009\n\nDavid Eagle is a comedian and musician and member of\
+ nthree-time BBC Radio 2 folk award-winning band The Young ‘Uns.The Young
+  ‘Uns.In 2018 David branched out into stand-up comedy and was crowned\nN
+ ew Comedian Of The Year at Nottingham Comedy Festival\, Bath Comedy Festiv
+ al\nand Leicester Square Theatre.Recently he featured on BBC Radio 4/s fla
+ gship comedy ‘The\nNow Show’.David is blind\, and his comedy often exp
+ lores how his\ndisability means the most ordinary\, commonplace events are
+  turned into surreal\nand convoluted dramas. Occasionally he dons his acco
+ rdion (often as a spiteful\nrepost to hecklers) and performs one of his co
+ medy songs\, such as his George\nFormby parody\, described by the Guardian
+  as "a comic tour de force."“David Eagle is a genuine stand up rookie ph
+ enomenon! Looking\nforward to hearing more.” - Reginald D Hunter“David
+  Eagle is a genuine stand up rookie phenomenon! Looking\nforward to hearin
+ g more.” -“David Eagle is a genuine stand up rookie phenomenon! Lookin
+ g\nforward to hearing more.” -Reginald D Hunter“just seen the future o
+ f stand up comedy and his name is David\nEagle” - Boothby Graffoe“jus
+ t seen the future of stand up comedy and his name is David\nEagle”“jus
+ t seen the future of stand up comedy and his name is David\nEagle”Boothb
+ y Graffoe“constantly hilarious\, gag on gag\, leaving an audience gaspin
+ g in\nadmiration\, and applause that goes on for minutes.” - Bath Echo
+ “constantly hilarious\, gag on gag\, leaving an audience gasping in\nadm
+ iration\, and applause that goes on for minutes.” - Bath EchoSuitable fo
+ r all 16+ and\nthe evening plays with an interval.Suitable for all 16+ and
+ \nthe evening plays with an interval.Suitable for all 16+ and\nthe evening
+  plays with an interval.www.davideagle.co.ukwww.davideagle.co.ukX/Twitter 
+ @thedavideagleX/Twitter @thedavideagleX/Twitter @thedavideagleFacebook @th
+ edavideagleFacebook @thedavideagleFacebook @thedavideagleYoutube @onlineea
+ gleYoutube @onlineeagleYoutube @onlineeagleWe are on the site of Mary Hare
+  School\, please stick to the public areas (the auditorium\, foyer\, grass
+  and smoking area to the left hand side of the venue entrance as you look 
+ at it).\n\nDoors to the venue open an hour before the performance starts\,
+  with the bar starting service at the same time. Doors to the auditorium u
+ sually open half an hour before a performance.\n\nTickets can be purchased
+  from the box office (which is directly opposite the entrance doors) durin
+ g opening hours (10am-4.30pm weekdays)\, as well as just before and during
+  the show. Our box office and bar accept both card and cash payments.Pleas
+ e note that there is no cash machine on site. FOR CARER AND ACCESS SEATS\,
+  please call 01635 244 246 – or email boxoffice@arlingtonarts.co.uk.\nDo
+ ors to the venue open an hour before the performance starts\, with the bar
+  starting service at the same time. Doors to the auditorium usually open h
+ alf an hour before a performance.\nTickets can be purchased from the box o
+ ffice (which is directly opposite the entrance doors) during opening hours
+  (10am-4.30pm weekdays)\, as well as just before and during the show. Our 
+ box office and bar accept both card and cash payments.Please note that the
+ re is no cash machine on site. FOR CARER AND ACCESS SEATS\, please call 01
+ 635 244 246 – or email boxoffice@arlingtonarts.co.uk.Tickets can be purc
+ hased from the box office (which is directly opposite the entrance doors) 
+ during opening hours (10am-4.30pm weekdays)\, as well as just before and d
+ uring the show. Our box office and bar accept both card and cash payments.
+IMAGE:https://dc40ra2rfm3rp.cloudfront.net/as-assets/variants/hu17fvpg8c3v
+ pyy5tgmnpvnopbgs/294362d2878890fe167497bc1bbfe533f8178e7563017132ec259173a
+ 2d4e4be
+LOCATION:Arlington Arts Centre
+URL:https://arlingtonarts.ticketsolve.com/ticketbooth/shows/873642009
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dance Sensation 2024
+DTSTART:20240309T000000
+DTEND:20240309T000000
+DTSTAMP:20240102T230512Z
+UID:506b8f1d-9cce-4344-bfb4-91a284c88d9a
+CREATED:20240102T230512Z
+DESCRIPTION:Details Page: https://arlingtonarts.ticketsolve.com/ticketboot
+ h/shows/873642333\n\nThis show is for Dance Sensation family only.\n\n\nRo
+ w A may have a restricted view. To find out more please see our seating p
+ lan page.\n\n\n\nDoors to the venue open an hour before the performance st
+ arts\, with the bar starting service at the same time. Doors to the audito
+ rium usually open half an hour before a performance.\nTickets can be purch
+ ased from the box office (which is directly opposite the entrance doors) d
+ uring opening hours (10am-4.30pm weekdays)\, as well as just before and du
+ ring the show.\nOur box office and bar accept both card and cash payments.
+  Please note that there is no cash machine on site.\nFOR CARER AND ACCESS 
+ SEATS\, please call 01635 244 246 – or email boxoffice@arlingtonarts.co.
+ uk.\n\n\nRow A may have a restricted view. To find out more please see our
+  seating plan page.\nRow A may have a restricted view. To find out more p
+ lease see our seating plan page.\nDoors to the venue open an hour before 
+ the performance starts\, with the bar starting service at the same time. D
+ oors to the auditorium usually open half an hour before a performance.\nTi
+ ckets can be purchased from the box office (which is directly opposite the
+  entrance doors) during opening hours (10am-4.30pm weekdays)\, as well as 
+ just before and during the show.\nOur box office and bar accept both card 
+ and cash payments. Please note that there is no cash machine on site.\nFOR
+  CARER AND ACCESS SEATS\, please call 01635 244 246 – or email boxoffice
+ @arlingtonarts.co.uk.\nDoors to the venue open an hour before the performa
+ nce starts\, with the bar starting service at the same time. Doors to the 
+ auditorium usually open half an hour before a performance.Tickets can be p
+ urchased from the box office (which is directly opposite the entrance door
+ s) during opening hours (10am-4.30pm weekdays)\, as well as just before an
+ d during the show.Our box office and bar accept both card and cash payment
+ s. Please note that there is no cash machine on site.FOR CARER AND ACCESS 
+ SEATS\, please call 01635 244 246 – or email boxoffice@arlingtonarts.co.
+ uk.
+IMAGE:https://dc40ra2rfm3rp.cloudfront.net/as-assets/variants/1y585ew0dp39
+ 7sh2efoupkhc7smw/294362d2878890fe167497bc1bbfe533f8178e7563017132ec259173a
+ 2d4e4be
+LOCATION:Arlington Arts Centre
+URL:https://arlingtonarts.ticketsolve.com/ticketbooth/shows/873642333
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Comedy Ladder at Arlington Arts Centre
+DTSTART:20240315T190000
+DTEND:20240315T213000
+DTSTAMP:20240102T230513Z
+UID:5073ce03-72bb-4421-b8bc-a3f07a575266
+CREATED:20240102T230513Z
+DESCRIPTION:Details Page: https://arlingtonarts.ticketsolve.com/ticketboot
+ h/shows/873642012\n\nComedy Ladder at Arlington features some of the b
+ est comedians in the UK\, including some you'll recognise off the telly! 
+ With a diverse range of comedy styles\, from observational humour to surr
+ eal satire\, from dry wit to physical comedy –whatever floats your f
+ unny boat\, we've got you covered!\nComedy Ladder at Arlington features
+  some of the best comedians in the UK\, including some you'll recognise
+  off the telly! With a diverse range of comedy styles\, from observationa
+ l humour to surreal satire\, from dry wit to physical comedy –whatev
+ er floats your funny boat\, we've got you covered!On the bill this time i
+ s 'Funniest Joke of the Fringe' winner Darren Walsh and Live At The Apollo
+  star Paul McCaffrey.Ages 18+On the bill this time is 'Funniest Joke of th
+ e Fringe' winner Darren Walsh and Live At The Apollo star Paul McCaffrey.A
+ ges 18+\nWe are on the site of Mary Hare School\, please stick to the publ
+ ic areas (the auditorium\, foyer\, grass and smoking area to the left hand
+  side of the venue entrance as you look at it).\nDoors to the venue open a
+ n hour before the performance starts\, with the bar starting service at th
+ e same time. Doors to the auditorium usually open half an hour before a pe
+ rformance.\nTickets can be purchased from the box office (which is directl
+ y opposite the entrance doors) during opening hours (10am-4.30pm weekdays)
+ \, as well as just before and during the show.\nOur box office and bar acc
+ ept both card and cash payments. Please note that there is no cash machine
+  on site. FOR CARER AND ACCESS SEATS\, please call 01635 244 246 – or em
+ ail boxoffice@arlingtonarts.co.uk.\nWe are on the site of Mary Hare School
+ \, please stick to the public areas (the auditorium\, foyer\, grass and sm
+ oking area to the left hand side of the venue entrance as you look at it).
+ Doors to the venue open an hour before the performance starts\, with the b
+ ar starting service at the same time. Doors to the auditorium usually open
+  half an hour before a performance.Tickets can be purchased from the box o
+ ffice (which is directly opposite the entrance doors) during opening hours
+  (10am-4.30pm weekdays)\, as well as just before and during the show.Our b
+ ox office and bar accept both card and cash payments. Please note that the
+ re is no cash machine on site. FOR CARER AND ACCESS SEATS\, please call 01
+ 635 244 246 – or email boxoffice@arlingtonarts.co.uk.
+IMAGE:https://dc40ra2rfm3rp.cloudfront.net/as-assets/variants/hpx5si21kfa6
+ p0atvvz5ejfcd5p9/294362d2878890fe167497bc1bbfe533f8178e7563017132ec259173a
+ 2d4e4be
+LOCATION:Arlington Arts Centre
+URL:https://arlingtonarts.ticketsolve.com/ticketbooth/shows/873642012
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lindisfarne
+DTSTART:20240405T190000
+DTEND:20240405T213000
+DTSTAMP:20240102T230514Z
+UID:3570eafd-11be-4778-ad10-8d0d1872b893
+CREATED:20240102T230514Z
+DESCRIPTION:Details Page: https://arlingtonarts.ticketsolve.com/ticketboot
+ h/shows/873639836\n\nRow F may have a restricted view. To find out more pl
+ ease see our seating plan page.Row F may have a restricted view. To find 
+ out more please see our seating plan page.Ages 13+Arlington Arts Centre i
+ s delighted\nto welcome to Newbury\, the\nlegendary 70’s folk-rock pione
+ ers LINDISFARNE\,\nwith a classic five-piece line-up of long-time members 
+ fronted by\nfounder-member Rod Clements on\nvocals\, mandolin\, fiddle and
+  slide guitar.Arlington Arts Centre is delighted\nto welcome to Newbury\, 
+ the\nlegendary 70’s folk-rock pioneers LINDISFARNE\,\nwith a classic fiv
+ e-piece line-up of long-time members fronted by\nfounder-member Rod Clemen
+ ts on\nvocals\, mandolin\, fiddle and slide guitar.LINDISFARNERod Clements
+ With a repertoire of unforgettable songs like Meet Me On The Corner\, Fog 
+ On The Tyne\, Lady\nEleanor and Run For Home and a\nreputation for live pe
+ rformance second to none\, Lindisfarne’s power to\ngalvanize festival an
+ d concert audiences remains undimmed and is guaranteed to\nget the crowd o
+ n their feet and singing along.With a repertoire of unforgettable songs li
+ ke Meet Me On The Corner\, Fog On The Tyne\, Lady\nEleanor and Run For Hom
+ e and a\nreputation for live performance second to none\, Lindisfarne’s 
+ power to\ngalvanize festival and concert audiences remains undimmed and is
+  guaranteed to\nget the crowd on their feet and singing along.Meet Me On T
+ he Corner\, Fog On The Tyne\, Lady\nEleanor  Run For Homewww.lindisfarne.c
+ omwww.lindisfarne.comwww.lindisfarne.comLINDISFARNE 2024 are: LINDISFARNE 
+ 2024 are: LINDISFARNE 2024 are: ROD CLEMENTS (1969-present)\nVocal\, mando
+ lin\, fiddle\, guitars ROD CLEMENTS (1969-present)\nVocal\, mandolin\, fid
+ dle\, guitars DAVE HULL-DENHOLM\n(1994-present) Vocal\, guitars DAVE HULL-
+ DENHOLM\n(1994-present) Vocal\, guitars STEVE DAGGETT (1986-present)\nVoca
+ l\, keyboards\, guitarsSTEVE DAGGETT (1986-present)\nVocal\, keyboards\, g
+ uitarsIAN THOMSON (1995-present)\nBass\, vocal IAN THOMSON (1995-present)\
+ nBass\, vocal PAUL SMITH Drums PAUL SMITH Drums --------------------------
+ --------------------------------------------------------------------------
+ --------------------------------------------------------------------------
+ --------------------------------"Lindisfarne were the real surprise packag
+ e for me at\nthis year's Towersey Festival. (2017) Not being of their gene
+ ration I had been\nunsure of just how they would go down\, but they storme
+ d it. Consummate\nprofessionals and great musicians\, they surprised me wi
+ th just how many of\ntheir great songs I knew and those that I didn't felt
+  familiar. Wonderful stage\npresence and rapport with the Audience\; who I
+  should say came in droves to see\nthem. A no- brainer booking for me. One
+  of this year’s festival highlights."\nJoe Heap - Director - TOWERSEY\nF
+ ESTIVAL Ltd 2017"Lindisfarne were the real surprise package for me at\nthi
+ s year's Towersey Festival. (2017) Not being of their generation I had bee
+ n\nunsure of just how they would go down\, but they stormed it. Consummate
+ \nprofessionals and great musicians\, they surprised me with just how many
+  of\ntheir great songs I knew and those that I didn't felt familiar. Wonde
+ rful stage\npresence and rapport with the Audience\; who I should say came
+  in droves to see\nthem. A no- brainer booking for me. One of this year’
+ s festival highlights."\n"Lindisfarne were the real surprise package for m
+ e at\nthis year's Towersey Festival. (2017) Not being of their generation 
+ I had been\nunsure of just how they would go down\, but they stormed it. C
+ onsummate\nprofessionals and great musicians\, they surprised me with just
+  how many of\ntheir great songs I knew and those that I didn't felt famili
+ ar. Wonderful stage\npresence and rapport with the Audience\; who I should
+  say came in droves to see\nthem. A no- brainer booking for me. One of thi
+ s year’s festival highlights."\nJoe Heap - Director - TOWERSEY\nFESTIVAL
+  Ltd 2017Joe Heap - Director - TOWERSEY\nFESTIVAL Ltd 2017We are on the si
+ te of Mary Hare School\, please stick to the public areas (the auditorium\
+ , foyer\, grass and smoking area to the left hand side of the venue entran
+ ce as you look at it).\nDoors to the venue open an hour before the perform
+ ance starts\, with the bar starting service at the same time. Doors to the
+  auditorium usually open half an hour before a performance.\nTickets can b
+ e purchased from the box office (which is directly opposite the entrance d
+ oors) during opening hours (10am-4.30pm weekdays)\, as well as just before
+  and during the show.\nOur box office and bar accept both card and cash pa
+ yments. Please note that there is no cash machine on site.\nFOR CARER AND 
+ ACCESS SEATS\, please call 01635 244 246 – or email boxoffice@arlingtona
+ rts.co.uk.\nDoors to the venue open an hour before the performance starts\
+ , with the bar starting service at the same time. Doors to the auditorium 
+ usually open half an hour before a performance.Tickets can be purchased fr
+ om the box office (which is directly opposite the entrance doors) during o
+ pening hours (10am-4.30pm weekdays)\, as well as just before and during th
+ e show.Our box office and bar accept both card and cash payments. Please n
+ ote that there is no cash machine on site.FOR CARER AND ACCESS SEATS\, ple
+ ase call 01635 244 246 – or email boxoffice@arlingtonarts.co.uk.
+IMAGE:https://dc40ra2rfm3rp.cloudfront.net/as-assets/variants/6psu43khb37g
+ z74c60qt6rskxe62/294362d2878890fe167497bc1bbfe533f8178e7563017132ec259173a
+ 2d4e4be
+LOCATION:Arlington Arts Centre
+URL:https://arlingtonarts.ticketsolve.com/ticketbooth/shows/873639836
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Selfish Giant
+DTSTART:20240410T000000
+DTEND:20240410T000000
+DTSTAMP:20240102T230516Z
+UID:da81911f-b610-40a7-9d7a-8a89c4f7131b
+CREATED:20240102T230516Z
+DESCRIPTION:Details Page: https://arlingtonarts.ticketsolve.com/ticketboot
+ h/shows/873642015\n\nGrinter is a giant. She lives happily alone in her hu
+ ge cold house\, surrounded by her huge snowy gardens\, enclosed by her hig
+ h\, frost-covered walls. She shuts out the world\, because long ago\, the 
+ world shut her out\, and so she hides\, safe and quiet in her peaceful\, i
+ cy home. Outside the towering walls of her enormous garden\, the world has
+  been changing and there is very little green left. One day\, the children
+  - tired of playing on hard roads and grey rooftops - find a chink in the 
+ giant's wall and climb through\, changing the course of the children’s a
+ nd Grinter's lives forever. Powerful storytelling\, captivating puppetry\
+ , beautiful design\, enchanting music and a sprinkling of magic sums up th
+ is very special show.\n\n“beautifully crafted…a perfect way to occupy 
+ young minds” - Bristol 247\n“beautifully crafted…a perfect way to o
+ ccupy young minds”Bristol 247\n\n"cleverly and creatively imagined adapt
+ ation" - Curious Mum\n\n\n"The Selfish Giant really is a story for our tim
+ es." - Children’s Theatre Reviews\n\n\n\nWe are on the site of Mary Har
+ e School\, please stick to the public areas (the auditorium\, foyer\, gras
+ s and smoking area to the left hand side of the venue entrance as you look
+  at it).\n\n\nDoors to the venue open an hour before the performance start
+ s\, with the bar starting service at the same time. Doors to the auditoriu
+ m usually open half an hour before a performance.\n\nTickets can be purcha
+ sed from the box office (which is directly opposite the entrance doors) du
+ ring opening hours (10am-4.30pm weekdays)\, as well as just before and dur
+ ing the show. Our box office and bar accept both card and cash payments.Pl
+ ease note that there is no cash machine on site. FOR CARER AND ACCESS SEAT
+ S\, please call 01635 244 246 – or email boxoffice@arlingtonarts.co.uk.\
+ n\n\n\n"cleverly and creatively imagined adaptation" - Curious Mum\n"cleve
+ rly and creatively imagined adaptation"Curious Mum\n"The Selfish Giant rea
+ lly is a story for our times." - Children’s Theatre Reviews\n\n"The Sel
+ fish Giant really is a story for our times." - Children’s Theatre Revie
+ ws\n"The Selfish Giant really is a story for our times."Children’s Theat
+ re Reviews\nWe are on the site of Mary Hare School\, please stick to the p
+ ublic areas (the auditorium\, foyer\, grass and smoking area to the left h
+ and side of the venue entrance as you look at it).\n\n\nDoors to the venue
+  open an hour before the performance starts\, with the bar starting servic
+ e at the same time. Doors to the auditorium usually open half an hour befo
+ re a performance.\n\nTickets can be purchased from the box office (which i
+ s directly opposite the entrance doors) during opening hours (10am-4.30pm 
+ weekdays)\, as well as just before and during the show. Our box office and
+  bar accept both card and cash payments.Please note that there is no cash 
+ machine on site. FOR CARER AND ACCESS SEATS\, please call 01635 244 246 
+ – or email boxoffice@arlingtonarts.co.uk.\n\nWe are on the site of Mary 
+ Hare School\, please stick to the public areas (the auditorium\, foyer\, g
+ rass and smoking area to the left hand side of the venue entrance as you l
+ ook at it).\n\nDoors to the venue open an hour before the performance star
+ ts\, with the bar starting service at the same time. Doors to the auditori
+ um usually open half an hour before a performance.\n\nTickets can be purch
+ ased from the box office (which is directly opposite the entrance doors) d
+ uring opening hours (10am-4.30pm weekdays)\, as well as just before and du
+ ring the show. Our box office and bar accept both card and cash payments.P
+ lease note that there is no cash machine on site. FOR CARER AND ACCESS SEA
+ TS\, please call 01635 244 246 – or email boxoffice@arlingtonarts.co.uk.
+ \nDoors to the venue open an hour before the performance starts\, with the
+  bar starting service at the same time. Doors to the auditorium usually op
+ en half an hour before a performance.\nTickets can be purchased from the b
+ ox office (which is directly opposite the entrance doors) during opening h
+ ours (10am-4.30pm weekdays)\, as well as just before and during the show. 
+ Our box office and bar accept both card and cash payments.Please note that
+  there is no cash machine on site. FOR CARER AND ACCESS SEATS\, please cal
+ l 01635 244 246 – or email boxoffice@arlingtonarts.co.uk.Tickets can be 
+ purchased from the box office (which is directly opposite the entrance doo
+ rs) during opening hours (10am-4.30pm weekdays)\, as well as just before a
+ nd during the show. Our box office and bar accept both card and cash payme
+ nts.
+IMAGE:https://dc40ra2rfm3rp.cloudfront.net/as-assets/variants/wmyexb8dcls2
+ n3eb3v0ugvsbzot8/294362d2878890fe167497bc1bbfe533f8178e7563017132ec259173a
+ 2d4e4be
+LOCATION:Arlington Arts Centre
+URL:https://arlingtonarts.ticketsolve.com/ticketbooth/shows/873642015
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Big Wolf Band
+DTSTART:20240412T190000
+DTEND:20240412T213000
+DTSTAMP:20240102T230517Z
+UID:b7ebb58a-ea23-406a-bdd0-b31250cf58c7
+CREATED:20240102T230517Z
+DESCRIPTION:Details Page: https://arlingtonarts.ticketsolve.com/ticketboot
+ h/shows/873642044\n\nFormed in Birmingham in 2014\, blues rock outfit Big\
+ nWolf Band fronted by acclaimed guitarist\, vocalist\, and songwriter Jona
+ than\nEarp. The Big\nWolf Band live shows incorporate hard edged blues roc
+ k with dynamic highs\, lows\nand a high energy filled set that incorporate
+ s everything you want to see from\na live band. Big Wolf Band has wowed au
+ diences\, festivals\, and promoters up and\ndown the country. One of the U
+ K’s best blues rock outfits continue their rise\nwith their biggest head
+ line tour to date promoting their new album “Rebel’s\nJourney”. Are 
+ you ready to run with the pack? Formed in Birmingham in 2014\, blues rock 
+ outfit Big\nWolf Band fronted by acclaimed guitarist\, vocalist\, and song
+ writer Jonathan\nEarp. The Big\nWolf Band live shows incorporate hard edge
+ d blues rock with dynamic highs\, lows\nand a high energy filled set that 
+ incorporates everything you want to see from\na live band. Big Wolf Band h
+ as wowed audiences\, festivals\, and promoters up and\ndown the country. O
+ ne of the UK’s best blues rock outfits continue their rise\nwith their b
+ iggest headline tour to date promoting their new album “Rebel’s\nJourn
+ ey”. Are you ready to run with the pack? “Well\, that was some night! 
+ Sold out\, two\nstanding ovations\, queues at the merch desk... and boy di
+ d Big Wolf Band\ndeliver” - Richard Dunning UK Blues Federation Chairman
+  and Tuesday Night Music\nClub“Well\, that was some night! Sold out\, tw
+ o\nstanding ovations\, queues at the merch desk... and boy did Big Wolf Ba
+ nd\ndeliver” - Richard Dunning UK Blues Federation Chairman and Tuesday 
+ Night Music\nClub“WOW!!!! When Big Wolf Band\nperform you know that you
+ ’re in for a special experience. This band are full of\ntalent and can c
+ ommand an audience’s full attention and respect” - Mark Matthews\nBou
+ rne Music Club“WOW!!!! When Big Wolf Band\nperform you know that you’r
+ e in for a special experience. This band are full of\ntalent and can comma
+ nd an audience’s full attention and respect” - Mark Matthews\nBourne 
+ Music Club"Well\,\nwhat a night! We were thrilled to host the fantastic Bi
+ g Wolf Band for their\nreturn visit to the club for a night of superior mu
+ sicianship and\nentertainment. A beautiful summers day led to a very warm 
+ evening in Ludlow\nBrewery...perfect for our kind of music and ideal for t
+ he rocky blues style we\nwere all treated to." - Shropshire Blues Club"We
+ ll\,\nwhat a night! We were thrilled to host the fantastic Big Wolf Band f
+ or their\nreturn visit to the club for a night of superior musicianship an
+ d\nentertainment. A beautiful summers day led to a very warm evening in Lu
+ dlow\nBrewery...perfect for our kind of music and ideal for the rocky blue
+ s style we\nwere all treated to." - Shropshire Blues Club“Brit Rock\nBl
+ ues in good hands” Pete Feenstra Get Ready to Rock Radio“Brit Rock\nBl
+ ues in good hands” Pete Feenstra Get Ready to Rock RadioWe are on the si
+ te of Mary Hare School\, please stick to the public areas (the auditorium\
+ , foyer\, grass and smoking area to the left hand side of the venue entran
+ ce as you look at it).\n\nDoors to the venue open an hour before the perfo
+ rmance starts\, with the bar starting service at the same time. Doors to t
+ he auditorium usually open half an hour before a performance.\n\nTickets c
+ an be purchased from the box office (which is directly opposite the entran
+ ce doors) during opening hours (10am-4.30pm weekdays)\, as well as just be
+ fore and during the show. Our box office and bar accept both card and cash
+  payments.Please note that there is no cash machine on site. FOR CARER AND
+  ACCESS SEATS\, please call 01635 244 246 – or email boxoffice@arlington
+ arts.co.uk.\nDoors to the venue open an hour before the performance starts
+ \, with the bar starting service at the same time. Doors to the auditorium
+  usually open half an hour before a performance.\nTickets can be purchased
+  from the box office (which is directly opposite the entrance doors) durin
+ g opening hours (10am-4.30pm weekdays)\, as well as just before and during
+  the show. Our box office and bar accept both card and cash payments.Pleas
+ e note that there is no cash machine on site. FOR CARER AND ACCESS SEATS\,
+  please call 01635 244 246 – or email boxoffice@arlingtonarts.co.uk.Tick
+ ets can be purchased from the box office (which is directly opposite the e
+ ntrance doors) during opening hours (10am-4.30pm weekdays)\, as well as ju
+ st before and during the show. Our box office and bar accept both card and
+  cash payments.
+IMAGE:https://dc40ra2rfm3rp.cloudfront.net/as-assets/variants/6d9z9lgwzw1s
+ g1jjhp6c5dtjv6oj/294362d2878890fe167497bc1bbfe533f8178e7563017132ec259173a
+ 2d4e4be
+LOCATION:Arlington Arts Centre
+URL:https://arlingtonarts.ticketsolve.com/ticketbooth/shows/873642044
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Flats & Sharps
+DTSTART:20240414T190000
+DTEND:20240414T213000
+DTSTAMP:20240102T230518Z
+UID:a65a8033-9cf4-4034-899f-6ec44befb32f
+CREATED:20240102T230518Z
+DESCRIPTION:Details Page: https://arlingtonarts.ticketsolve.com/ticketboot
+ h/shows/873641719\n\nFlats &\nSharps are a four-piece bluegrass outfit fro
+ m Penzance\, Cornwall. Delivering\nenergetic\, enthusiastic\, and spirited
+  Bluegrass to audiences all around the\nworld\, Flats & Sharps have been p
+ erforming their unique take on this music\nfor over ten years. Flats &\nSh
+ arps are a four-piece bluegrass outfit from Penzance\, Cornwall. Deliverin
+ g\nenergetic\, enthusiastic\, and spirited Bluegrass to audiences all arou
+ nd the\nworld\, Flats & Sharps have been performing their unique take on t
+ his music\nfor over ten years. Their shows\ninclude a wide variety of infl
+ uences\, from a fresh and modern outlook on\nfoot-stomping Bluegrass mater
+ ial through to their powerful and well-crafted\noriginal songs\, with beau
+ tiful moments everywhere in between. Their music\nperfectly blends strong 
+ harmonies and stonking solos\, their incredible stage\npresence and energy
+  create an evening that’ll have you dancing\, laughing and\nsinging alon
+ g in no time.Their shows\ninclude a wide variety of influences\, from a fr
+ esh and modern outlook on\nfoot-stomping Bluegrass material through to the
+ ir powerful and well-crafted\noriginal songs\, with beautiful moments ever
+ ywhere in between. Their music\nperfectly blends strong harmonies and ston
+ king solos\, their incredible stage\npresence and energy create an evening
+  that’ll have you dancing\, laughing and\nsinging along in no time.Over 
+ their\ntime together\, the band have made their presence known all around 
+ the world\,\nincluding multiple tours in Australia\, Europe and around the
+  UK.Over their\ntime together\, the band have made their presence known al
+ l around the world\,\nincluding multiple tours in Australia\, Europe and a
+ round the UK."The picking is exhilarating\, the harmony vocals precise. Yo
+ u\ncan but admire." Fred Deller\, Mojo (4 star ‘King of My Mind’ revi
+ ew) "The picking is exhilarating\, the harmony vocals precise. You\ncan b
+ ut admire."Fred Deller\, Mojo (4 star ‘King of My Mind’ review) We ar
+ e on the site of Mary Hare School\, please stick to the public areas (the 
+ auditorium\, foyer\, grass and smoking area to the left hand side of the v
+ enue entrance as you look at it).\n\nDoors to the venue open an hour befor
+ e the performance starts\, with the bar starting service at the same time.
+  Doors to the auditorium usually open half an hour before a performance.\n
+ \nTickets can be purchased from the box office (which is directly opposite
+  the entrance doors) during opening hours (10am-4.30pm weekdays)\, as well
+  as just before and during the show. Our box office and bar accept both ca
+ rd and cash payments.Please note that there is no cash machine on site. FO
+ R CARER AND ACCESS SEATS\, please call 01635 244 246 – or email boxoffic
+ e@arlingtonarts.co.uk.\nDoors to the venue open an hour before the perform
+ ance starts\, with the bar starting service at the same time. Doors to the
+  auditorium usually open half an hour before a performance.\nTickets can b
+ e purchased from the box office (which is directly opposite the entrance d
+ oors) during opening hours (10am-4.30pm weekdays)\, as well as just before
+  and during the show. Our box office and bar accept both card and cash pay
+ ments.Please note that there is no cash machine on site. FOR CARER AND ACC
+ ESS SEATS\, please call 01635 244 246 – or email boxoffice@arlingtonarts
+ .co.uk.Tickets can be purchased from the box office (which is directly opp
+ osite the entrance doors) during opening hours (10am-4.30pm weekdays)\, as
+  well as just before and during the show. Our box office and bar accept bo
+ th card and cash payments.
+IMAGE:https://dc40ra2rfm3rp.cloudfront.net/as-assets/variants/yxp7l73jx2xh
+ 5knveoneeklzbj9h/294362d2878890fe167497bc1bbfe533f8178e7563017132ec259173a
+ 2d4e4be
+LOCATION:Arlington Arts Centre
+URL:https://arlingtonarts.ticketsolve.com/ticketbooth/shows/873641719
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Comedy Ladder at Arlington Arts Centre
+DTSTART:20240419T190000
+DTEND:20240419T213000
+DTSTAMP:20240102T230519Z
+UID:e1634c81-d9c2-4c5f-8f03-f9b4d1413e5f
+CREATED:20240102T230519Z
+DESCRIPTION:Details Page: https://arlingtonarts.ticketsolve.com/ticketboot
+ h/shows/873642047\n\nComedy Ladder at Arlington features some of the b
+ est comedians in the UK\, including some you'll recognise off the telly! 
+ With a diverse range of comedy styles\, from observational humour to surr
+ eal satire\, from dry wit to physical comedy –whatever floats your f
+ unny boat\, we've got you covered!\nIn April\, we welcome Nathan Caton (L
+ ive At The Apollo\, Mock The Week) and Andy Robinson.We are on the site of
+  Mary Hare School\, please stick to the public areas (the auditorium\, foy
+ er\, grass and smoking area to the left hand side of the venue entrance as
+  you look at it).\n\n\nDoors to the venue open an hour before the performa
+ nce starts\, with the bar starting service at the same time. Doors to the 
+ auditorium usually open half an hour before a performance.\n\nTickets can 
+ be purchased from the box office (which is directly opposite the entrance 
+ doors) during opening hours (10am-4.30pm weekdays)\, as well as just befor
+ e and during the show. Our box office and bar accept both card and cash pa
+ yments.Please note that there is no cash machine on site. FOR CARER AND AC
+ CESS SEATS\, please call 01635 244 246 – or email boxoffice@arlingtonart
+ s.co.uk.\n\nIn April\, we welcome Nathan Caton (Live At The Apollo\, Mock 
+ The Week) and Andy Robinson.We are on the site of Mary Hare School\, pleas
+ e stick to the public areas (the auditorium\, foyer\, grass and smoking ar
+ ea to the left hand side of the venue entrance as you look at it).\n\nDoor
+ s to the venue open an hour before the performance starts\, with the bar s
+ tarting service at the same time. Doors to the auditorium usually open hal
+ f an hour before a performance.\n\nTickets can be purchased from the box o
+ ffice (which is directly opposite the entrance doors) during opening hours
+  (10am-4.30pm weekdays)\, as well as just before and during the show. Our 
+ box office and bar accept both card and cash payments.Please note that the
+ re is no cash machine on site. FOR CARER AND ACCESS SEATS\, please call 01
+ 635 244 246 – or email boxoffice@arlingtonarts.co.uk.\nDoors to the venu
+ e open an hour before the performance starts\, with the bar starting servi
+ ce at the same time. Doors to the auditorium usually open half an hour bef
+ ore a performance.\nTickets can be purchased from the box office (which is
+  directly opposite the entrance doors) during opening hours (10am-4.30pm w
+ eekdays)\, as well as just before and during the show. Our box office and 
+ bar accept both card and cash payments.Please note that there is no cash m
+ achine on site. FOR CARER AND ACCESS SEATS\, please call 01635 244 246 –
+  or email boxoffice@arlingtonarts.co.uk.Tickets can be purchased from the 
+ box office (which is directly opposite the entrance doors) during opening 
+ hours (10am-4.30pm weekdays)\, as well as just before and during the show.
+  Our box office and bar accept both card and cash payments.
+IMAGE:https://dc40ra2rfm3rp.cloudfront.net/as-assets/variants/3xzvr2683qb4
+ qjh6emr28ke4k02n/294362d2878890fe167497bc1bbfe533f8178e7563017132ec259173a
+ 2d4e4be
+LOCATION:Arlington Arts Centre
+URL:https://arlingtonarts.ticketsolve.com/ticketbooth/shows/873642047
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Newbury YoungStars: Matilda JR
+DTSTART:20240426T000000
+DTEND:20240426T000000
+DTSTAMP:20240102T230521Z
+UID:f52f0971-317c-4491-a9ed-94943e75ef1b
+CREATED:20240102T230521Z
+DESCRIPTION:Details Page: https://arlingtonarts.ticketsolve.com/ticketboot
+ h/shows/873641695\n\nGet ready for a rebellious adventure as the children 
+ rise up in Matilda JR. This dazzling MTI Broadway Junior adaptation is pre
+ sented by 2023 NODA award winners\, Newbury YoungStars.Get ready for a reb
+ ellious adventure as the children rise up in Matilda JR. This dazzling MTI
+  Broadway Junior adaptation is presented by 2023 NODA award winners\, Newb
+ ury YoungStars.Step into the well-loved story of a girl who dreams of a be
+ tter life\, and the children she inspires. Root for the "revolting childre
+ n" who are out to teach the grown-ups a lesson in this heart-warming tale 
+ that celebrates the anarchy of childhood\, the power of imagination\, and 
+ the resilience of young heroes.Step into the well-loved story of a girl wh
+ o dreams of a better life\, and the children she inspires. Root for the "r
+ evolting children" who are out to teach the grown-ups a lesson in this hea
+ rt-warming tale that celebrates the anarchy of childhood\, the power of im
+ agination\, and the resilience of young heroes.Join us for an electrifying
+  performance filled with dazzling dance numbers and unforgettable songs. C
+ ome and be part of the magic\, Maggots!Join us for an electrifying perform
+ ance filled with dazzling dance numbers and unforgettable songs. Come and 
+ be part of the magic\, Maggots!We are on the site of Mary Hare School\, pl
+ ease stick to the public areas (the auditorium\, foyer\, grass and smoking
+  area to the left hand side of the venue entrance as you look at it).Doors
+  to the venue open an hour before the performance starts\, with the bar st
+ arting service at the same time. Doors to the auditorium usually open half
+  an hour before a performance.\nWe are on the site of Mary Hare School\, p
+ lease stick to the public areas (the auditorium\, foyer\, grass and smokin
+ g area to the left hand side of the venue entrance as you look at it).Door
+ s to the venue open an hour before the performance starts\, with the bar s
+ tarting service at the same time. Doors to the auditorium usually open hal
+ f an hour before a performance.\nTickets can be purchased from the box off
+ ice (which is directly opposite the entrance doors) during opening hours (
+ 10am-4.30pm weekdays)\, as well as just before and during the show. Our bo
+ x office and bar accept both card and cash payments. Please note that ther
+ e is no cash machine on site. FOR CARER AND ACCESS SEATS\, please call 016
+ 35 244 246 – or email boxoffice@arlingtonarts.co.uk.Tickets can be purch
+ ased from the box office (which is directly opposite the entrance doors) d
+ uring opening hours (10am-4.30pm weekdays)\, as well as just before and du
+ ring the show. Our box office and bar accept both card and cash payments. 
+ Please note that there is no cash machine on site. FOR CARER AND ACCESS SE
+ ATS\, please call 01635 244 246 – or email boxoffice@arlingtonarts.co.uk
+ .
+IMAGE:https://dc40ra2rfm3rp.cloudfront.net/as-assets/variants/izsfpgvnzwpb
+ z2t9pmbcn8wuahua/294362d2878890fe167497bc1bbfe533f8178e7563017132ec259173a
+ 2d4e4be
+LOCATION:Arlington Arts Centre
+URL:https://arlingtonarts.ticketsolve.com/ticketbooth/shows/873641695
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sari Schorr Plus Matt Pearce & The Mutiny
+DTSTART:20240428T190000
+DTEND:20240428T213000
+DTSTAMP:20240102T230522Z
+UID:225d54cf-ecef-4463-8e3d-4769b031f9fc
+CREATED:20240102T230522Z
+DESCRIPTION:Details Page: https://arlingtonarts.ticketsolve.com/ticketboot
+ h/shows/873633988\n\nRow F may have a restricted view. To find out more in
+ formation please visit our seating plan page.\nseating plan page.Two lead
+ ing blues rock artists\, who are currently among the top new international
+  touring acts in the genre\, are joining forces to tour the UK backed by t
+ heir full electric and high energy live bands.Two leading blues rock artis
+ ts\, who are currently among the top new international touring acts in the
+  genre\, are joining forces to tour the UK backed by their full electric a
+ nd high energy live bands.Sari Shorr with her jaw-dropping voice and a li
+ ve show that erupts like a volcano have catapulted Sari into the spotlight
+  as one of the hottest new blues-rock singers today. The native New Yorker
+  is taking the blues world by storm\, and with a voice that jolted legenda
+ ry blues producer Mike Vernon (think Fleetwood Mac\, Clapton\, and Bowie) 
+ out of retirement\, it’s not hard to see why. It’s no wonder that Blue
+ s Matters said\, “The future of blues is in good hands. Sari is a gift t
+ o all of us from the Blues Gods.”Sari Shorr Sari Shorr with her jaw-dr
+ opping voice and a live show that erupts like a volcano have catapulted Sa
+ ri into the spotlight as one of the hottest new blues-rock singers today. 
+ The native New Yorker is taking the blues world by storm\, and with a voic
+ e that jolted legendary blues producer Mike Vernon (think Fleetwood Mac\, 
+ Clapton\, and Bowie) out of retirement\, it’s not hard to see why. It’
+ s no wonder that Blues Matters said\, “The future of blues is in good ha
+ nds. Sari is a gift to all of us from the Blues Gods.”Matt Pearce & The 
+ Mutiny are classic\, pulsating blues-rock tinged with latin\, funk and so
+ ul. Imagine Joe Cocker\, Santana\, Prince & Stevie Wonder playing some ser
+ iously funky guitar. Matt is also an original member of the successful har
+ d rock outfit Voodoo Six\, releasing five albums including one recorded in
+  L.A. at Steve Vai’s ‘Mothership Studios’.Matt Pearce & The Mutiny 
+ Matt Pearce & The Mutiny are classic\, pulsating blues-rock tinged with l
+ atin\, funk and soul. Imagine Joe Cocker\, Santana\, Prince & Stevie Wonde
+ r playing some seriously funky guitar. Matt is also an original member of 
+ the successful hard rock outfit Voodoo Six\, releasing five albums includi
+ ng one recorded in L.A. at Steve Vai’s ‘Mothership Studios’.We are o
+ n the site of Mary Hare School\, please stick to the public areas (the aud
+ itorium\, foyer\, grass and smoking area to the left hand side of the venu
+ e entrance as you look at it).Doors to the venue open an hour before the p
+ erformance starts\, with the bar starting service at the same time. Doors 
+ to the auditorium usually open half an hour before a performance.Tickets c
+ an be purchased from the box office (which is directly opposite the entran
+ ce doors) during opening hours (10am-4.30pm weekdays)\, as well as just be
+ fore and during the show.Our box office and bar accept both card and cash 
+ payments. Please note that there is no cash machine on site.FOR CARER AND 
+ ACCESS SEATS\, please call 01635 244 246 – or email boxoffice@arlingtona
+ rts.co.uk.
+IMAGE:https://dc40ra2rfm3rp.cloudfront.net/as-assets/variants/sxnt4g6qno7e
+ 4t07j3ysc5o5rlds/294362d2878890fe167497bc1bbfe533f8178e7563017132ec259173a
+ 2d4e4be
+LOCATION:Arlington Arts Centre
+URL:https://arlingtonarts.ticketsolve.com/ticketbooth/shows/873633988
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kira Mac
+DTSTART:20240509T190000
+DTEND:20240509T213000
+DTSTAMP:20240102T230523Z
+UID:59ab3fed-66f3-4b31-958f-f6d0ac3b151a
+CREATED:20240102T230523Z
+DESCRIPTION:Details Page: https://arlingtonarts.ticketsolve.com/ticketboot
+ h/shows/873640450\n\nRow F may have a restricted view. To find out more pl
+ ease see our seating plan page.Row F may have a restricted view. To find 
+ out more please see our seating plan page.Kira Mac\, the UK's hottest ro
+ ck sensation\, is reinventing the classic genre with a modern twist. Their
+  music bursts with the raw power of old-school rock\, fused seamlessly wit
+ h contemporary flair\, soulful melodies\, and a generous dose of rock 'n r
+ oll attitude.Kira Mac\, the UK's hottest rock sensation\, is reinventing 
+ the classic genre with a modern twist. Their music bursts with the raw pow
+ er of old-school rock\, fused seamlessly with contemporary flair\, soulful
+  melodies\, and a generous dose of rock 'n roll attitude.Kira This dynami
+ c band\, a diverse collective of musicians hailing from various corners of
+  the UK\, serendipitously crossed paths in the heart of Manchester in 2018
+ . United by a shared passion for crafting authentic music inspired by work
+ ing-class struggles\, they embarked on a journey to create something truly
+  extraordinary.This dynamic band\, a diverse collective of musicians haili
+ ng from various corners of the UK\, serendipitously crossed paths in the h
+ eart of Manchester in 2018. United by a shared passion for crafting authen
+ tic music inspired by working-class struggles\, they embarked on a journey
+  to create something truly extraordinary.Kira Mac's influences span the r
+ ich tapestry of rock and diverse musical genres. Their unique talent is ho
+ ned from grassroots beginnings\, rooted in an unbridled love for music's e
+ clectic and acoustic dimensions.Kira Mac's influences span the rich tapes
+ try of rock and diverse musical genres. Their unique talent is honed from 
+ grassroots beginnings\, rooted in an unbridled love for music's eclectic a
+ nd acoustic dimensions.Kira Fronted by Rhi's powerhouse vocals and Joe Wo
+ rrall's blistering guitar skills\, the band delivers a fresh take on rock 
+ 'n roll songwriting and a distinctive sound. Alex and Bret\, round out the
+  ensemble\, creating an electrifying rhythm and percussion backbone.Fronte
+ d by Rhi's powerhouse vocals and Joe Worrall's blistering guitar skills\, 
+ the band delivers a fresh take on rock 'n roll songwriting and a distincti
+ ve sound. Alex and Bret\, round out the ensemble\, creating an electrifyin
+ g rhythm and percussion backbone.Kira Mac is poised to set UK stages abla
+ ze once again\, bringing their electrifying sound to festivals and live sh
+ ows. Brace yourself for a rock revival like no other\, led by the unstoppa
+ ble force that is Kira Mac!Kira Mac is poised to set UK stages ablaze o
+ nce again\, bringing their electrifying sound to festivals and live shows.
+  Brace yourself for a rock revival like no other\, led by the unstoppable 
+ force that is Kira Mac!Kira Kira https://www.kiramac.com/https://www.k
+ iramac.com/We are on the site of Mary Hare School\, please stick to the pu
+ blic areas (the auditorium\, foyer\, grass and smoking area to the left ha
+ nd side of the venue entrance as you look at it).\nDoors to the venue open
+  an hour before the performance starts\, with the bar starting service at 
+ the same time. Doors to the auditorium usually open half an hour before a 
+ performance.\nTickets can be purchased from the box office (which is direc
+ tly opposite the entrance doors) during opening hours (10am-4.30pm weekday
+ s)\, as well as just before and during the show.\nOur box office and bar a
+ ccept both card and cash payments. Please note that there is no cash machi
+ ne on site.\nFOR CARER AND ACCESS SEATS\, please call 01635 244 246 – or
+  email boxoffice@arlingtonarts.co.uk.\nDoors to the venue open an hour bef
+ ore the performance starts\, with the bar starting service at the same tim
+ e. Doors to the auditorium usually open half an hour before a performance.
+ Tickets can be purchased from the box office (which is directly opposite t
+ he entrance doors) during opening hours (10am-4.30pm weekdays)\, as well a
+ s just before and during the show.Our box office and bar accept both card 
+ and cash payments. Please note that there is no cash machine on site.FOR C
+ ARER AND ACCESS SEATS\, please call 01635 244 246 – or email boxoffice@a
+ rlingtonarts.co.uk.
+IMAGE:https://dc40ra2rfm3rp.cloudfront.net/as-assets/variants/jv7xy93diu4x
+ je2v07v19v59ut3o/294362d2878890fe167497bc1bbfe533f8178e7563017132ec259173a
+ 2d4e4be
+LOCATION:Arlington Arts Centre
+URL:https://arlingtonarts.ticketsolve.com/ticketbooth/shows/873640450
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Newton Faulkner - Feels Like Home Tour 2
+DTSTART:20240515T190000
+DTEND:20240515T213000
+DTSTAMP:20240102T230524Z
+UID:a16a59fe-ff3b-4f6e-b967-b810a4ee2180
+CREATED:20240102T230524Z
+DESCRIPTION:Details Page: https://arlingtonarts.ticketsolve.com/ticketboot
+ h/shows/873641573\n\nAge Restriction - 14+ with a 18+Guitar Workshop must 
+ be booked via box office on 01635 244246 or boxoffice@arlingtonarts.co.ukG
+ uitar Workshop 3 hours before doorsVIP 1.5 hours before doorsAge Restricti
+ on - 14+ with a 18+Guitar Workshop must be booked via box office on 01635 
+ 244246 or boxoffice@arlingtonarts.co.ukGuitar Workshop 3 hours before door
+ sVIP 1.5 hours before doorsRow F may have a restricted view. To find out m
+ ore please see our seating plan page.seating plan page.'Just a man with h
+ is voice and guitar doing some old fashioned diddly-diddly-diddly-bap-bap'
+  Newton Faulkner.'Just a man with his voice and guitar doing some old fa
+ shioned diddly-diddly-diddly-bap-bap' Newton Faulkner.Newton's going old
+  school\, solo\, mainly acoustic with the occasional splash of something o
+ f the beaten track\, maybe a cassette sting part\, who knows. It's been 2 
+ years since Feels Like Home part 1\, who's ready for Feels Like Home part 
+ 2?  This time it's personal.Newton's going old school\, solo\, mainly aco
+ ustic with the occasional splash of something of the beaten track\, maybe 
+ a cassette sting part\, who knows. It's been 2 years since Feels Like Home
+  part 1\, who's ready for Feels Like Home part 2?  This time it's persona
+ l.Newton“On the forthcoming UK tour\, I’ll be focusing on the songs th
+ at work best with just a vocal and guitar part and dusting off some things
+  I haven't played for a long time\,” says Newton. "There are a lot of s
+ ongs I miss playing at this stage in my career\, but I can't play them all
+  at every gig any more\, we'd be there all night. I'm very excited to be r
+ eunited with some of my old friends." NF“On the forthcoming UK tour\, I
+ ’ll be focusing on the songs that work best with just a vocal and guitar
+  part and dusting off some things I haven't played for a long time\,” sa
+ ys Newton. "There are a lot of songs I miss playing at this stage in my c
+ areer\, but I can't play them all at every gig any more\, we'd be there al
+ l night. I'm very excited to be reunited with some of my old friends." NF
+ “On the forthcoming UK tour\, I’ll be focusing on the songs that work 
+ best with just a vocal and guitar part and dusting off some things I haven
+ 't played for a long time\,” says Newton. "There are a lot of songs I m
+ iss playing at this stage in my career\, but I can't play them all at ever
+ y gig any more\, we'd be there all night. I'm very excited to be reunited 
+ with some of my old friends." NFNewtonNFVIP ticketsVIP ticketsVIP tickets
+ Become a VIP ticket holder with meet and greet prior to the performance wi
+ th Newton and a signed souvenir package. There are a limited number of t
+ ickets allocated to each show\, book early advised.Become a VIP ticket hol
+ der with meet and greet prior to the performance with Newton and a signe
+ d souvenir package. There are a limited number of tickets allocated to eac
+ h show\, book early advised.Newton "The VIP tickets will give you the opp
+ ortunity to peek behind the curtain and see me soundcheck and ask any ques
+ tions you like. They'll even be a handshake or hug in it for you\, if you'
+ re into that kind of thing.” NF"The VIP tickets will give you the oppor
+ tunity to peek behind the curtain and see me soundcheck and ask any questi
+ ons you like. They'll even be a handshake or hug in it for you\, if you're
+  into that kind of thing.” NF"The VIP tickets will give you the opportu
+ nity to peek behind the curtain and see me soundcheck and ask any question
+ s you like. They'll even be a handshake or hug in it for you\, if you're i
+ nto that kind of thing.” NFNFGuitar Workshop TicketsGuitar Workshop Tic
+ ketsGuitar Workshop TicketsA unique guitar workshop experience with Newto
+ n- very limited in number\, plus everything included in the VIP package an
+ d access to the concert.A unique guitar workshop experience with Newton- 
+ very limited in number\, plus everything included in the VIP package and a
+ ccess to the concert.Newton"Whether you've just started playing or have be
+ en playing for years and want to try something different\, I'll let you se
+ e how I approach everything from arrangements to composition to warm up my
+  fingers.” NF"Whether you've just started playing or have been playing 
+ for years and want to try something different\, I'll let you see how I app
+ roach everything from arrangements to composition to warm up my fingers.
+ ” NF"Whether you've just started playing or have been playing for years
+  and want to try something different\, I'll let you see how I approach eve
+ rything from arrangements to composition to warm up my fingers.” NFNFWe
+  are on the site of Mary Hare School\, please stick to the public areas (t
+ he auditorium\, foyer\, grass and smoking area to the left hand side of th
+ e venue entrance as you look at it).\nDoors to the venue open an hour befo
+ re the performance starts\, with the bar starting service at the same time
+ . Doors to the auditorium usually open half an hour before a performance.\
+ nTickets can be purchased from the box office (which is directly opposite 
+ the entrance doors) during opening hours (10am-4.30pm weekdays)\, as well 
+ as just before and during the show.\nOur box office and bar accept both ca
+ rd and cash payments. Please note that there is no cash machine on site.\n
+ FOR CARER AND ACCESS SEATS\, please call 01635 244 246 – or email boxoff
+ ice@arlingtonarts.co.uk.\nDoors to the venue open an hour before the perfo
+ rmance starts\, with the bar starting service at the same time. Doors to t
+ he auditorium usually open half an hour before a performance.Tickets can b
+ e purchased from the box office (which is directly opposite the entrance d
+ oors) during opening hours (10am-4.30pm weekdays)\, as well as just before
+  and during the show.Our box office and bar accept both card and cash paym
+ ents. Please note that there is no cash machine on site.FOR CARER AND ACCE
+ SS SEATS\, please call 01635 244 246 – or email boxoffice@arlingtonarts.
+ co.uk.
+IMAGE:https://dc40ra2rfm3rp.cloudfront.net/as-assets/variants/y0ia25hnbsys
+ a91s4juxqnr5ifci/294362d2878890fe167497bc1bbfe533f8178e7563017132ec259173a
+ 2d4e4be
+LOCATION:Arlington Arts Centre
+URL:https://arlingtonarts.ticketsolve.com/ticketbooth/shows/873641573
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Comedy Ladder at Arlington Arts Centre
+DTSTART:20240517T190000
+DTEND:20240517T213000
+DTSTAMP:20240102T230526Z
+UID:fa1be19c-9378-4fe6-9a18-b606db738432
+CREATED:20240102T230526Z
+DESCRIPTION:Details Page: https://arlingtonarts.ticketsolve.com/ticketboot
+ h/shows/873642048\n\nWelcome to Newbury's newest and funniest spot –
+  our brand new comedy club that will leave you in stitches! If you're lo
+ oking for a night of laughter and good times\, look no further – Arling
+ ton Arts is the place to be!Comedy Ladder at Arlington features some of
+  the best comedians in the UK\, including some you'll recognise off the 
+ telly! Welcome to Newbury's newest and funniest spot – our brand ne
+ w comedy club that will leave you in stitches! If you're looking for a ni
+ ght of laughter and good times\, look no further – Arlington Arts is th
+ e place to be!Comedy Ladder at Arlington features some of the best com
+ edians in the UK\, including some you'll recognise off the telly! With 
+ a diverse range of comedy styles\, from observational humour to surreal sa
+ tire\, from dry wit to physical comedy –whatever floats your funny b
+ oat\, we've got you covered! Our comedy club is the perfect place to unw
+ ind after a long week\, celebrate a special occasion\, or simply enjoy a n
+ ight out with friends. With affordable ticket prices and regular events\, 
+ we're sure you'll become a regular visitor in no time. So why not come an
+ d join us for a night of fun and hilarity at Arlington Arts?With a divers
+ e range of comedy styles\, from observational humour to surreal satire\, f
+ rom dry wit to physical comedy –whatever floats your funny boat\, w
+ e've got you covered! Our comedy club is the perfect place to unwind afte
+ r a long week\, celebrate a special occasion\, or simply enjoy a night out
+  with friends. With affordable ticket prices and regular events\, we're su
+ re you'll become a regular visitor in no time. So why not come and join u
+ s for a night of fun and hilarity at Arlington Arts?Don't miss out on the 
+ opportunity to experience the best comedy in Newburyand get ready to laugh
+  until it hurts!Don't miss out on the opportunity to experience the best c
+ omedy in Newburyand get ready to laugh until it hurts!We are on the site o
+ f Mary Hare School\, please stick to the public areas (the auditorium\, fo
+ yer\, grass and smoking area to the left hand side of the venue entrance a
+ s you look at it).\n\nDoors to the venue open an hour before the performan
+ ce starts\, with the bar starting service at the same time. Doors to the a
+ uditorium usually open half an hour before a performance.\n\nTickets can b
+ e purchased from the box office (which is directly opposite the entrance d
+ oors) during opening hours (10am-4.30pm weekdays)\, as well as just before
+  and during the show. Our box office and bar accept both card and cash pay
+ ments.Please note that there is no cash machine on site. FOR CARER AND ACC
+ ESS SEATS\, please call 01635 244 246 – or email boxoffice@arlingtonarts
+ .co.uk.\nDoors to the venue open an hour before the performance starts\, w
+ ith the bar starting service at the same time. Doors to the auditorium usu
+ ally open half an hour before a performance.\nTickets can be purchased fro
+ m the box office (which is directly opposite the entrance doors) during op
+ ening hours (10am-4.30pm weekdays)\, as well as just before and during the
+  show. Our box office and bar accept both card and cash payments.Please no
+ te that there is no cash machine on site. FOR CARER AND ACCESS SEATS\, ple
+ ase call 01635 244 246 – or email boxoffice@arlingtonarts.co.uk.Tickets 
+ can be purchased from the box office (which is directly opposite the entra
+ nce doors) during opening hours (10am-4.30pm weekdays)\, as well as just b
+ efore and during the show. Our box office and bar accept both card and cas
+ h payments.
+IMAGE:https://dc40ra2rfm3rp.cloudfront.net/as-assets/variants/8gubkp7oi9d5
+ f2wst5ncfm45a0xz/294362d2878890fe167497bc1bbfe533f8178e7563017132ec259173a
+ 2d4e4be
+LOCATION:Arlington Arts Centre
+URL:https://arlingtonarts.ticketsolve.com/ticketbooth/shows/873642048
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FM - Old Habits Die Hard - 40th Anniversary Tour
+DTSTART:20240518T190000
+DTEND:20240518T213000
+DTSTAMP:20240102T230527Z
+UID:769bc5d3-f959-4ded-a96b-6cd97e5cdd81
+CREATED:20240102T230527Z
+DESCRIPTION:Details Page: https://arlingtonarts.ticketsolve.com/ticketboot
+ h/shows/873639842\n\nPlus Support from CollateralRow F may have a restrict
+ ed view. To find out more please see our seating plan page.Plus Support f
+ rom CollateralRow F may have a restricted view. To find out more please se
+ e our seating plan page.FM are pleased to announce their “Old Habits D
+ ie Hard” 40th Anniversary UK Tour 2024FM are pleased to announce their 
+ “Old Habits Die Hard” 40th Anniversary UK Tour 2024FM FM will perfor
+ m songs from their past 13 albums including their 1984 debut album Indiscr
+ eet\, plus Tough It Out\, Metropolis\, Synchronized and many more\, plus s
+ ongs from FM’s forthcoming highly anticipated 14th studio.FM will perf
+ orm songs from their past 13 albums including their 1984 debut album Indis
+ creet\, plus Tough It Out\, Metropolis\, Synchronized and many more\, plus
+  songs from FM’s forthcoming highly anticipated 14th studio.FM FMForme
+ d in the 80's by the Overland brothers FM have become one of the UK's se
+ minal Rock Bands. “From our meeting in a Notting Hill pub in 1984 to ou
+ r "one off" comeback gig at Firefest 2007\, it's great to now arrive at ou
+ r 40th Anniversary shows\,” says FM’s drummer\, Pete Jupp. “Who'd h
+ ave thought we'd reach such a milestone?”Formed in the 80's by the Overl
+ and brothers FM have become one of the UK's seminal Rock Bands. FM “
+ From our meeting in a Notting Hill pub in 1984 to our "one off" comeback g
+ ig at Firefest 2007\, it's great to now arrive at our 40th Anniversary sho
+ ws\,” says FM’s drummer\, Pete Jupp. “Who'd have thought we'd reach
+  such a milestone?”The 40th Anniversary concerts will celebrate classic 
+ anthems spanning FM’s illustrious 40-year career.The 40th Anniversary c
+ oncerts will celebrate classic anthems spanning FM’s illustrious 40-yea
+ r career.FMSteve Overland – Vocals\, Guitar\nMerv Goldsworthy – Bass G
+ uitar\nPete Jupp – Drums\nJem Davis – Keyboards Jim Kirkpatrick – Gu
+ itarSteve Overland – Vocals\, Guitar\nMerv Goldsworthy – Bass Guitar\n
+ Pete Jupp – Drums\nJem Davis – Keyboards Jim Kirkpatrick – GuitarWe 
+ are on the site of Mary Hare School\, please stick to the public areas (th
+ e auditorium\, foyer\, grass and smoking area to the left hand side of the
+  venue entrance as you look at it).We are on the site of Mary Hare School\
+ , please stick to the public areas (the auditorium\, foyer\, grass and smo
+ king area to the left hand side of the venue entrance as you look at it).\
+ nDoors to the venue open an hour before the performance starts\, with the 
+ bar starting service at the same time. Doors to the auditorium usually ope
+ n half an hour before a performance.\nTickets can be purchased from the bo
+ x office (which is directly opposite the entrance doors) during opening ho
+ urs (10am-4.30pm weekdays)\, as well as just before and during the show.\n
+ Our box office and bar accept both card and cash payments. Please note tha
+ t there is no cash machine on site.\nFOR CARER AND ACCESS SEATS\, please c
+ all 01635 244 246 – or email boxoffice@arlingtonarts.co.uk.\nDoors to th
+ e venue open an hour before the performance starts\, with the bar starting
+  service at the same time. Doors to the auditorium usually open half an ho
+ ur before a performance.Tickets can be purchased from the box office (whic
+ h is directly opposite the entrance doors) during opening hours (10am-4.30
+ pm weekdays)\, as well as just before and during the show.Our box office a
+ nd bar accept both card and cash payments. Please note that there is no ca
+ sh machine on site.FOR CARER AND ACCESS SEATS\, please call 01635 244 246 
+ – or email boxoffice@arlingtonarts.co.uk.
+IMAGE:https://dc40ra2rfm3rp.cloudfront.net/as-assets/variants/35v53tai4wic
+ 9roc98vdrvwmw6b3/294362d2878890fe167497bc1bbfe533f8178e7563017132ec259173a
+ 2d4e4be
+LOCATION:Arlington Arts Centre
+URL:https://arlingtonarts.ticketsolve.com/ticketbooth/shows/873639842
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Crazy Diamond
+DTSTART:20240525T000000
+DTEND:20240525T000000
+DTSTAMP:20240102T230528Z
+UID:ba9693e5-bb9b-4ce3-9114-ed4484874c68
+CREATED:20240102T230528Z
+DESCRIPTION:Details Page: https://arlingtonarts.ticketsolve.com/ticketboot
+ h/shows/873642049\n\nThis show includes other classics and fan\ntreats suc
+ h as ‘The Great Gig in the Sky’ and\n’Echoes’.\n\n\n“Their abili
+ ty to recreate the sounds and\natmosphere is second to none. One thing is
+  for certain\, pigs might not quite\nfly but you’re in for a great gig (
+ pardon the\npun)” - John Evans of the Royal Shakespeare Company \n\n\n
+ \n\n“Make sure you check them out. You will be\nimpressed." - Beats Boa
+ rd Banter\n\n\n\nWe are on the site of Mary Hare School\, please stick to 
+ the public areas (the auditorium\, foyer\, grass and smoking area to the l
+ eft hand side of the venue entrance as you look at it).\n\n\nDoors to the 
+ venue open an hour before the performance starts\, with the bar starting s
+ ervice at the same time. Doors to the auditorium usually open half an hour
+  before a performance.\n\nTickets can be purchased from the box office (wh
+ ich is directly opposite the entrance doors) during opening hours (10am-4.
+ 30pm weekdays)\, as well as just before and during the show. Our box offic
+ e and bar accept both card and cash payments.Please note that there is no 
+ cash machine on site. FOR CARER AND ACCESS SEATS\, please call 01635 244 2
+ 46 – or email boxoffice@arlingtonarts.co.uk.\n\n\n\n\nThis show includes
+  other classics and fan\ntreats such as ‘The Great Gig in the Sky’ and
+ \n’Echoes’.\n\n\n“Their ability to recreate the sounds and\natmosphe
+ re is second to none. One thing is for certain\, pigs might not quite\nfl
+ y but you’re in for a great gig (pardon the\npun)” - John Evans of th
+ e Royal Shakespeare Company \n\n\n\n\n“Make sure you check them out. Yo
+ u will be\nimpressed." - Beats Board Banter\n\n\n\nWe are on the site of 
+ Mary Hare School\, please stick to the public areas (the auditorium\, foye
+ r\, grass and smoking area to the left hand side of the venue entrance as 
+ you look at it).\n\n\nDoors to the venue open an hour before the performan
+ ce starts\, with the bar starting service at the same time. Doors to the a
+ uditorium usually open half an hour before a performance.\n\nTickets can b
+ e purchased from the box office (which is directly opposite the entrance d
+ oors) during opening hours (10am-4.30pm weekdays)\, as well as just before
+  and during the show. Our box office and bar accept both card and cash pay
+ ments.Please note that there is no cash machine on site. FOR CARER AND ACC
+ ESS SEATS\, please call 01635 244 246 – or email boxoffice@arlingtonarts
+ .co.uk.\n\n\n\n\n\n“Their ability to recreate the sounds and\natmosphere
+  is second to none. One thing is for certain\, pigs might not quite\nfly 
+ but you’re in for a great gig (pardon the\npun)” - John Evans of the 
+ Royal Shakespeare Company \n\n\n“Their ability to recreate the sounds a
+ nd\natmosphere is second to none. One thing is for certain\, pigs might n
+ ot quite\nfly but you’re in for a great gig (pardon the\npun)” - John
+  Evans of the Royal Shakespeare Company \n“Their ability to recreate th
+ e sounds and\natmosphere is second to none. One thing is for certain\, pi
+ gs might not quite\nfly but you’re in for a great gig (pardon the\npun)
+ ” - One thing is for certain\, pigs might not quite\nfly but you’re i
+ n for a great gig (pardon the\npun)” John Evans of the Royal Shakespeare
+  Company John Evans of the Royal Shakespeare Company \n\n“Make sure yo
+ u check them out. You will be\nimpressed." - Beats Board Banter\n\n\n\nWe
+  are on the site of Mary Hare School\, please stick to the public areas (t
+ he auditorium\, foyer\, grass and smoking area to the left hand side of th
+ e venue entrance as you look at it).\n\n\nDoors to the venue open an hour 
+ before the performance starts\, with the bar starting service at the same 
+ time. Doors to the auditorium usually open half an hour before a performan
+ ce.\n\nTickets can be purchased from the box office (which is directly opp
+ osite the entrance doors) during opening hours (10am-4.30pm weekdays)\, as
+  well as just before and during the show. Our box office and bar accept bo
+ th card and cash payments.Please note that there is no cash machine on sit
+ e. FOR CARER AND ACCESS SEATS\, please call 01635 244 246 – or email box
+ office@arlingtonarts.co.uk.\n\n\n\n“Make sure you check them out. You wi
+ ll be\nimpressed." - Beats Board Banter\n“Make sure you check them out.
+  You will be\nimpressed." - “Make sure you check them out. You will be\
+ nimpressed." - Beats Board BanterBeats Board Banter\nWe are on the site o
+ f Mary Hare School\, please stick to the public areas (the auditorium\, fo
+ yer\, grass and smoking area to the left hand side of the venue entrance a
+ s you look at it).\n\n\nDoors to the venue open an hour before the perform
+ ance starts\, with the bar starting service at the same time. Doors to the
+  auditorium usually open half an hour before a performance.\n\nTickets can
+  be purchased from the box office (which is directly opposite the entrance
+  doors) during opening hours (10am-4.30pm weekdays)\, as well as just befo
+ re and during the show. Our box office and bar accept both card and cash p
+ ayments.Please note that there is no cash machine on site. FOR CARER AND A
+ CCESS SEATS\, please call 01635 244 246 – or email boxoffice@arlingtonar
+ ts.co.uk.\n\nWe are on the site of Mary Hare School\, please stick to the 
+ public areas (the auditorium\, foyer\, grass and smoking area to the left 
+ hand side of the venue entrance as you look at it).\n\nDoors to the venue 
+ open an hour before the performance starts\, with the bar starting service
+  at the same time. Doors to the auditorium usually open half an hour befor
+ e a performance.\n\nTickets can be purchased from the box office (which is
+  directly opposite the entrance doors) during opening hours (10am-4.30pm w
+ eekdays)\, as well as just before and during the show. Our box office and 
+ bar accept both card and cash payments.Please note that there is no cash m
+ achine on site. FOR CARER AND ACCESS SEATS\, please call 01635 244 246 –
+  or email boxoffice@arlingtonarts.co.uk.\nDoors to the venue open an hour 
+ before the performance starts\, with the bar starting service at the same 
+ time. Doors to the auditorium usually open half an hour before a performan
+ ce.\nTickets can be purchased from the box office (which is directly oppos
+ ite the entrance doors) during opening hours (10am-4.30pm weekdays)\, as w
+ ell as just before and during the show. Our box office and bar accept both
+  card and cash payments.Please note that there is no cash machine on site.
+  FOR CARER AND ACCESS SEATS\, please call 01635 244 246 – or email boxof
+ fice@arlingtonarts.co.uk.Tickets can be purchased from the box office (whi
+ ch is directly opposite the entrance doors) during opening hours (10am-4.3
+ 0pm weekdays)\, as well as just before and during the show. Our box office
+  and bar accept both card and cash payments.
+IMAGE:https://dc40ra2rfm3rp.cloudfront.net/as-assets/variants/wwfmolpwq6eo
+ tma1w6mib4ud5ag0/294362d2878890fe167497bc1bbfe533f8178e7563017132ec259173a
+ 2d4e4be
+LOCATION:Arlington Arts Centre
+URL:https://arlingtonarts.ticketsolve.com/ticketbooth/shows/873642049
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Playtime With The Last Baguette
+DTSTART:20240529T000000
+DTEND:20240529T000000
+DTSTAMP:20240102T230529Z
+UID:2e1f33dd-abc3-443d-8ad1-c8f2a06cfec3
+CREATED:20240102T230529Z
+DESCRIPTION:Details Page: https://arlingtonarts.ticketsolve.com/ticketboot
+ h/shows/873642051\n\nSessions last 1 hour\, and are created for ages 2-6 a
+ nd their grown-ups. Younger\nand older siblings welcome!\nthelastbaguette.
+ com/playtime\n\n\nWe are on the site of Mary Hare School\, please stick to
+  the public areas (the auditorium\, foyer\, grass and smoking area to the 
+ left hand side of the venue entrance as you look at it).\n\nDoors to the v
+ enue open an hour before the performance starts\, with the bar starting se
+ rvice at the same time. Doors to the auditorium usually open half an hour 
+ before a performance.\nTickets can be purchased from the box office (which
+  is directly opposite the entrance doors) during opening hours (10am-4.30p
+ m weekdays)\, as well as just before and during the show.\nOur box office 
+ and bar accept both card and cash payments. Please note that there is no c
+ ash machine on site.\nFOR CARER AND ACCESS SEATS\, please call 01635 244 2
+ 46 – or email boxoffice@arlingtonarts.co.uk.\n\n\n\nSessions last 1 hour
+ \, and are created for ages 2-6 and their grown-ups. Younger\nand older si
+ blings welcome!\nthelastbaguette.com/playtime\n\n\nWe are on the site of M
+ ary Hare School\, please stick to the public areas (the auditorium\, foyer
+ \, grass and smoking area to the left hand side of the venue entrance as y
+ ou look at it).\n\nDoors to the venue open an hour before the performance 
+ starts\, with the bar starting service at the same time. Doors to the audi
+ torium usually open half an hour before a performance.\nTickets can be pur
+ chased from the box office (which is directly opposite the entrance doors)
+  during opening hours (10am-4.30pm weekdays)\, as well as just before and 
+ during the show.\nOur box office and bar accept both card and cash payment
+ s. Please note that there is no cash machine on site.\nFOR CARER AND ACCES
+ S SEATS\, please call 01635 244 246 – or email boxoffice@arlingtonarts.c
+ o.uk.\n\n\nthelastbaguette.com/playtime\nWe are on the site of Mary Hare S
+ chool\, please stick to the public areas (the auditorium\, foyer\, grass a
+ nd smoking area to the left hand side of the venue entrance as you look at
+  it).\n\nDoors to the venue open an hour before the performance starts\, w
+ ith the bar starting service at the same time. Doors to the auditorium usu
+ ally open half an hour before a performance.\nTickets can be purchased fro
+ m the box office (which is directly opposite the entrance doors) during op
+ ening hours (10am-4.30pm weekdays)\, as well as just before and during the
+  show.\nOur box office and bar accept both card and cash payments. Please 
+ note that there is no cash machine on site.\nFOR CARER AND ACCESS SEATS\, 
+ please call 01635 244 246 – or email boxoffice@arlingtonarts.co.uk.\n\nW
+ e are on the site of Mary Hare School\, please stick to the public areas (
+ the auditorium\, foyer\, grass and smoking area to the left hand side of t
+ he venue entrance as you look at it).\nDoors to the venue open an hour bef
+ ore the performance starts\, with the bar starting service at the same tim
+ e. Doors to the auditorium usually open half an hour before a performance.
+ \nTickets can be purchased from the box office (which is directly opposite
+  the entrance doors) during opening hours (10am-4.30pm weekdays)\, as well
+  as just before and during the show.\nOur box office and bar accept both c
+ ard and cash payments. Please note that there is no cash machine on site.\
+ nFOR CARER AND ACCESS SEATS\, please call 01635 244 246 – or email boxof
+ fice@arlingtonarts.co.uk.\nDoors to the venue open an hour before the perf
+ ormance starts\, with the bar starting service at the same time. Doors to 
+ the auditorium usually open half an hour before a performance.Tickets can 
+ be purchased from the box office (which is directly opposite the entrance 
+ doors) during opening hours (10am-4.30pm weekdays)\, as well as just befor
+ e and during the show.Our box office and bar accept both card and cash pay
+ ments. Please note that there is no cash machine on site.FOR CARER AND ACC
+ ESS SEATS\, please call 01635 244 246 – or email boxoffice@arlingtonarts
+ .co.uk.
+IMAGE:https://dc40ra2rfm3rp.cloudfront.net/as-assets/variants/n4o3gmnix8sc
+ ide56biw1q12nkwt/294362d2878890fe167497bc1bbfe533f8178e7563017132ec259173a
+ 2d4e4be
+LOCATION:Arlington Arts Centre
+URL:https://arlingtonarts.ticketsolve.com/ticketbooth/shows/873642051
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:West Berkshire Ballet School: The Nutcracker
+DTSTART:20240601T000000
+DTEND:20240601T000000
+DTSTAMP:20240102T230531Z
+UID:1871b280-9548-419d-9dea-64c722056d1b
+CREATED:20240102T230531Z
+DESCRIPTION:Details Page: https://arlingtonarts.ticketsolve.com/ticketboot
+ h/shows/873642312\n\nNo detailed description found [None] for [West Berksh
+ ire Ballet School: The Nutcracker]
+IMAGE:https://dc40ra2rfm3rp.cloudfront.net/as-assets/variants/2bf5nvzt7rt7
+ 5prhirdd6636dpqq/294362d2878890fe167497bc1bbfe533f8178e7563017132ec259173a
+ 2d4e4be
+LOCATION:Arlington Arts Centre
+URL:https://arlingtonarts.ticketsolve.com/ticketbooth/shows/873642312
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ACE Dance Company 
+DTSTART:20240615T183000
+DTEND:20240615T210000
+DTSTAMP:20240102T230532Z
+UID:f92b2f8d-8500-43cb-ad3c-f66dfb07c472
+CREATED:20240102T230532Z
+DESCRIPTION:Details Page: https://arlingtonarts.ticketsolve.com/ticketboot
+ h/shows/873642052\n\nWe are on the site of Mary Hare School\, please stick
+  to the public areas (the auditorium\, foyer\, grass and smoking area to t
+ he left hand side of the venue entrance as you look at it).\n\n\nDoors to 
+ the venue open an hour before the performance starts\, with the bar starti
+ ng service at the same time. Doors to the auditorium usually open half an 
+ hour before a performance.\n\nTickets can be purchased from the box office
+  (which is directly opposite the entrance doors) during opening hours (10a
+ m-4.30pm weekdays)\, as well as just before and during the show. Our box o
+ ffice and bar accept both card and cash payments.Please note that there is
+  no cash machine on site. FOR CARER AND ACCESS SEATS\, please call 01635 2
+ 44 246 – or email boxoffice@arlingtonarts.co.uk.\n\nWe are on the site o
+ f Mary Hare School\, please stick to the public areas (the auditorium\, fo
+ yer\, grass and smoking area to the left hand side of the venue entrance a
+ s you look at it).\n\nDoors to the venue open an hour before the performan
+ ce starts\, with the bar starting service at the same time. Doors to the a
+ uditorium usually open half an hour before a performance.\n\nTickets can b
+ e purchased from the box office (which is directly opposite the entrance d
+ oors) during opening hours (10am-4.30pm weekdays)\, as well as just before
+  and during the show. Our box office and bar accept both card and cash pay
+ ments.Please note that there is no cash machine on site. FOR CARER AND ACC
+ ESS SEATS\, please call 01635 244 246 – or email boxoffice@arlingtonarts
+ .co.uk.\nDoors to the venue open an hour before the performance starts\, w
+ ith the bar starting service at the same time. Doors to the auditorium usu
+ ally open half an hour before a performance.\nTickets can be purchased fro
+ m the box office (which is directly opposite the entrance doors) during op
+ ening hours (10am-4.30pm weekdays)\, as well as just before and during the
+  show. Our box office and bar accept both card and cash payments.Please no
+ te that there is no cash machine on site. FOR CARER AND ACCESS SEATS\, ple
+ ase call 01635 244 246 – or email boxoffice@arlingtonarts.co.uk.Tickets 
+ can be purchased from the box office (which is directly opposite the entra
+ nce doors) during opening hours (10am-4.30pm weekdays)\, as well as just b
+ efore and during the show. Our box office and bar accept both card and cas
+ h payments.
+IMAGE:https://dc40ra2rfm3rp.cloudfront.net/as-assets/variants/ocpgy2497ytd
+ 5c0tql1tlnwr17ud/294362d2878890fe167497bc1bbfe533f8178e7563017132ec259173a
+ 2d4e4be
+LOCATION:Arlington Arts Centre
+URL:https://arlingtonarts.ticketsolve.com/ticketbooth/shows/873642052
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Comedy Ladder At Arlington Arts Centre
+DTSTART:20240621T190000
+DTEND:20240621T213000
+DTSTAMP:20240102T230533Z
+UID:be91ee0c-eb86-4b8e-a4a8-ed733216594d
+CREATED:20240102T230533Z
+DESCRIPTION:Details Page: https://arlingtonarts.ticketsolve.com/ticketboot
+ h/shows/873642054\n\nwww.comedyladder.co.uk\n\nWe are on the site of Mary 
+ Hare School\, please stick to the public areas (the auditorium\, foyer\, g
+ rass and smoking area to the left hand side of the venue entrance as you l
+ ook at it).\n\nDoors to the venue open an hour before the performance star
+ ts\, with the bar starting service at the same time. Doors to the auditori
+ um usually open half an hour before a performance.\n\nTickets can be purch
+ ased from the box office (which is directly opposite the entrance doors) d
+ uring opening hours (10am-4.30pm weekdays)\, as well as just before and du
+ ring the show. Our box office and bar accept both card and cash payments.P
+ lease note that there is no cash machine on site. FOR CARER AND ACCESS SEA
+ TS\, please call 01635 244 246 – or email boxoffice@arlingtonarts.co.uk.
+ \n\n\n\n\nwww.comedyladder.co.uk\n\nWe are on the site of Mary Hare School
+ \, please stick to the public areas (the auditorium\, foyer\, grass and sm
+ oking area to the left hand side of the venue entrance as you look at it).
+ \n\nDoors to the venue open an hour before the performance starts\, with t
+ he bar starting service at the same time. Doors to the auditorium usually 
+ open half an hour before a performance.\n\nTickets can be purchased from t
+ he box office (which is directly opposite the entrance doors) during openi
+ ng hours (10am-4.30pm weekdays)\, as well as just before and during the sh
+ ow. Our box office and bar accept both card and cash payments.Please note 
+ that there is no cash machine on site. FOR CARER AND ACCESS SEATS\, please
+  call 01635 244 246 – or email boxoffice@arlingtonarts.co.uk.\n\n\n\n\n\
+ nWe are on the site of Mary Hare School\, please stick to the public areas
+  (the auditorium\, foyer\, grass and smoking area to the left hand side of
+  the venue entrance as you look at it).\n\nDoors to the venue open an hour
+  before the performance starts\, with the bar starting service at the same
+  time. Doors to the auditorium usually open half an hour before a performa
+ nce.\n\nTickets can be purchased from the box office (which is directly op
+ posite the entrance doors) during opening hours (10am-4.30pm weekdays)\, a
+ s well as just before and during the show. Our box office and bar accept b
+ oth card and cash payments.Please note that there is no cash machine on si
+ te. FOR CARER AND ACCESS SEATS\, please call 01635 244 246 – or email bo
+ xoffice@arlingtonarts.co.uk.\n\n\n\nWe are on the site of Mary Hare School
+ \, please stick to the public areas (the auditorium\, foyer\, grass and sm
+ oking area to the left hand side of the venue entrance as you look at it).
+ \n\nDoors to the venue open an hour before the performance starts\, with t
+ he bar starting service at the same time. Doors to the auditorium usually 
+ open half an hour before a performance.\n\nTickets can be purchased from t
+ he box office (which is directly opposite the entrance doors) during openi
+ ng hours (10am-4.30pm weekdays)\, as well as just before and during the sh
+ ow. Our box office and bar accept both card and cash payments.Please note 
+ that there is no cash machine on site. FOR CARER AND ACCESS SEATS\, please
+  call 01635 244 246 – or email boxoffice@arlingtonarts.co.uk.\n\nWe are 
+ on the site of Mary Hare School\, please stick to the public areas (the au
+ ditorium\, foyer\, grass and smoking area to the left hand side of the ven
+ ue entrance as you look at it).\nDoors to the venue open an hour before th
+ e performance starts\, with the bar starting service at the same time. Doo
+ rs to the auditorium usually open half an hour before a performance.\n\nTi
+ ckets can be purchased from the box office (which is directly opposite the
+  entrance doors) during opening hours (10am-4.30pm weekdays)\, as well as 
+ just before and during the show. Our box office and bar accept both card a
+ nd cash payments.Please note that there is no cash machine on site. FOR CA
+ RER AND ACCESS SEATS\, please call 01635 244 246 – or email boxoffice@ar
+ lingtonarts.co.uk.\nDoors to the venue open an hour before the performance
+  starts\, with the bar starting service at the same time. Doors to the aud
+ itorium usually open half an hour before a performance.\nTickets can be pu
+ rchased from the box office (which is directly opposite the entrance doors
+ ) during opening hours (10am-4.30pm weekdays)\, as well as just before and
+  during the show. Our box office and bar accept both card and cash payment
+ s.Please note that there is no cash machine on site. FOR CARER AND ACCESS 
+ SEATS\, please call 01635 244 246 – or email boxoffice@arlingtonarts.co.
+ uk.Tickets can be purchased from the box office (which is directly opposit
+ e the entrance doors) during opening hours (10am-4.30pm weekdays)\, as wel
+ l as just before and during the show. Our box office and bar accept both c
+ ard and cash payments.
+IMAGE:https://dc40ra2rfm3rp.cloudfront.net/as-assets/variants/y5rrrko485g4
+ 1ww12kc2tzbfzcuq/294362d2878890fe167497bc1bbfe533f8178e7563017132ec259173a
+ 2d4e4be
+LOCATION:Arlington Arts Centre
+URL:https://arlingtonarts.ticketsolve.com/ticketbooth/shows/873642054
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shaun Fitzgerald: No Need To Shout!
+DTSTART:20240622T183000
+DTEND:20240622T210000
+DTSTAMP:20240102T230535Z
+UID:e4854226-b33f-4cf9-8a2b-40cd8ef1a12b
+CREATED:20240102T230535Z
+DESCRIPTION:Details Page: https://arlingtonarts.ticketsolve.com/ticketboot
+ h/shows/873640807\n\nWe are delighted to invite you to a captivating talk 
+ by Shaun Fitzgerald\, a remarkable individual who has triumphed over extre
+ me adversity throughout his life. Shaun\, who was born profoundly deaf\, w
+ ill be sharing his inspiring journey through his experiences and challenge
+ s\, both on a personal and educational level. This tour is also an opport
+ unity for Shaun to promote his first book\, "The Rebuilt Mind\," in which 
+ he documents his journey towards overcoming his hardships and developing a
+  positive mindset that allowed him to regain his freedom.Shaun is looking 
+ forward to honestly discussing how he emerged from a state of deep depress
+ ion and almost reached the point of contemplating suicide. He will share t
+ he strategies and mental reconditioning techniques he self-taught to trans
+ form his life and achieve personal success. Shaun's experiences serve as a
+  testament to the fact that anyone can find true contentment by employing 
+ life-changing tools and maintaining a positive mindset.Shaun's narrative w
+ ill take you through the trials and tribulations he faced as a deaf indivi
+ dual in a predominantly hearing world. #NoNeedToShout is open to all who w
+ ish to listen to his straightforward and no-nonsense approach to wellness\
+ , or for those who simply want to be inspired by his heartfelt and impactf
+ ul story.We invite you to join us for this extraordinary event and be part
+  of Shaun's remarkable journey towards triumph\, which will be conducted u
+ sing British Sign Language (BSL)\, with the assistance of an interpreter.W
+ e are on the site of Mary Hare School\, please stick to the public areas (
+ the auditorium\, foyer\, grass and smoking area to the left hand side of t
+ he venue entrance as you look at it).We are on the site of Mary Hare Schoo
+ l\, please stick to the public areas (the auditorium\, foyer\, grass and s
+ moking area to the left hand side of the venue entrance as you look at it)
+ .\nDoors to the venue open an hour before the performance starts\, with th
+ e bar starting service at the same time. Doors to the auditorium usually o
+ pen half an hour before a performance.\nTickets can be purchased from the 
+ box office (which is directly opposite the entrance doors) during opening 
+ hours (10am-4.30pm weekdays)\, as well as just before and during the show.
+ \nOur box office and bar accept both card and cash payments. Please note t
+ hat there is no cash machine on site.\nFOR CARER AND ACCESS SEATS\, please
+  call 01635 244 246 – or email boxoffice@arlingtonarts.co.uk.\nDoors to 
+ the venue open an hour before the performance starts\, with the bar starti
+ ng service at the same time. Doors to the auditorium usually open half an 
+ hour before a performance.Tickets can be purchased from the box office (wh
+ ich is directly opposite the entrance doors) during opening hours (10am-4.
+ 30pm weekdays)\, as well as just before and during the show.Our box office
+  and bar accept both card and cash payments. Please note that there is no 
+ cash machine on site.FOR CARER AND ACCESS SEATS\, please call 01635 244 24
+ 6 – or email boxoffice@arlingtonarts.co.uk.
+IMAGE:https://dc40ra2rfm3rp.cloudfront.net/as-assets/variants/2h1n8xp2nsl0
+ nr4m32ua5e8vj8lt/294362d2878890fe167497bc1bbfe533f8178e7563017132ec259173a
+ 2d4e4be
+LOCATION:Arlington Arts Centre
+URL:https://arlingtonarts.ticketsolve.com/ticketbooth/shows/873640807
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ACE: Kids
+DTSTART:20240623T140000
+DTEND:20240623T163000
+DTSTAMP:20240102T230536Z
+UID:cb5d6167-58e8-45a7-a338-73fe6d3c2b02
+CREATED:20240102T230536Z
+DESCRIPTION:Details Page: https://arlingtonarts.ticketsolve.com/ticketboot
+ h/shows/873642053\n\nWe are on the site of Mary Hare School\, please stick
+  to the public areas (the auditorium\, foyer\, grass and smoking area to t
+ he left hand side of the venue entrance as you look at it).\n\n\nDoors to 
+ the venue open an hour before the performance starts\, with the bar starti
+ ng service at the same time. Doors to the auditorium usually open half an 
+ hour before a performance.\n\nTickets can be purchased from the box office
+  (which is directly opposite the entrance doors) during opening hours (10a
+ m-4.30pm weekdays)\, as well as just before and during the show. Our box o
+ ffice and bar accept both card and cash payments.Please note that there is
+  no cash machine on site. FOR CARER AND ACCESS SEATS\, please call 01635 2
+ 44 246 – or email boxoffice@arlingtonarts.co.uk.\n\nWe are on the site o
+ f Mary Hare School\, please stick to the public areas (the auditorium\, fo
+ yer\, grass and smoking area to the left hand side of the venue entrance a
+ s you look at it).\n\nDoors to the venue open an hour before the performan
+ ce starts\, with the bar starting service at the same time. Doors to the a
+ uditorium usually open half an hour before a performance.\n\nTickets can b
+ e purchased from the box office (which is directly opposite the entrance d
+ oors) during opening hours (10am-4.30pm weekdays)\, as well as just before
+  and during the show. Our box office and bar accept both card and cash pay
+ ments.Please note that there is no cash machine on site. FOR CARER AND ACC
+ ESS SEATS\, please call 01635 244 246 – or email boxoffice@arlingtonarts
+ .co.uk.\nDoors to the venue open an hour before the performance starts\, w
+ ith the bar starting service at the same time. Doors to the auditorium usu
+ ally open half an hour before a performance.\nTickets can be purchased fro
+ m the box office (which is directly opposite the entrance doors) during op
+ ening hours (10am-4.30pm weekdays)\, as well as just before and during the
+  show. Our box office and bar accept both card and cash payments.Please no
+ te that there is no cash machine on site. FOR CARER AND ACCESS SEATS\, ple
+ ase call 01635 244 246 – or email boxoffice@arlingtonarts.co.uk.Tickets 
+ can be purchased from the box office (which is directly opposite the entra
+ nce doors) during opening hours (10am-4.30pm weekdays)\, as well as just b
+ efore and during the show. Our box office and bar accept both card and cas
+ h payments.
+IMAGE:https://dc40ra2rfm3rp.cloudfront.net/as-assets/variants/lx32qnlb22ok
+ r9ko52uykb582wv4/294362d2878890fe167497bc1bbfe533f8178e7563017132ec259173a
+ 2d4e4be
+LOCATION:Arlington Arts Centre
+URL:https://arlingtonarts.ticketsolve.com/ticketbooth/shows/873642053
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cillian O’Connor: My Magic World
+DTSTART:20240719T183000
+DTEND:20240719T210000
+DTSTAMP:20240102T230537Z
+UID:5343fbe4-59e8-43f1-a90a-24d112f346b4
+CREATED:20240102T230537Z
+DESCRIPTION:Details Page: https://arlingtonarts.ticketsolve.com/ticketboot
+ h/shows/873637959\n\nRow A may have a restricted view. To find out more in
+ formation please visit our seating plan page.Lee Martin for Gag Reflex Pr
+ esents:\nCillian O’Connor: My Magic Worldseating plan page.Lee Martin fo
+ r Gag Reflex Presents:\nCillian O’Connor: My Magic WorldLee Martin for G
+ ag Reflex Presents:\nCillian O’Connor: My Magic WorldLee Martin for Gag 
+ Reflex Presents:\nCillian O’Connor: My Magic WorldCillian\nO’Connor is
+  bringing his first ever live stage show on tour to the UK and\nIreland in
+  2024.Cillian\nO’Connor is bringing his first ever live stage show on to
+ ur to the UK and\nIreland in 2024.Cillian\nO’Connor is bringing his firs
+ t ever live stage show on tour to the UK and\nIreland in 2024.Cillian\nlit
+ erally burst onto an unsuspecting world during Britain’s Got Talent in 2
+ 023\nand immediately captivated the hearts of the entire nation\, reaching
+  the top\nthree in the final.Cillian\nliterally burst onto an unsuspecting
+  world during Britain’s Got Talent in 2023\nand immediately captivated t
+ he hearts of the entire nation\, reaching the top\nthree in the final.Cill
+ ian\nliterally burst onto an unsuspecting world during Britain’s Got Tal
+ ent in 2023\nand immediately captivated the hearts of the entire nation\, 
+ reaching the top\nthree in the final.His\nperformances online have now bee
+ n the most watched of the entire series\nreaching over 500 million views i
+ n just a few weeks.His\nperformances online have now been the most watched
+  of the entire series\nreaching over 500 million views in just a few weeks
+ .His\nperformances online have now been the most watched of the entire ser
+ ies\nreaching over 500 million views in just a few weeks.With\nappearances
+  in Monte Carlo and the USA lined up\, this is the first time to\ncatch Ci
+ llian live on stage.With\nappearances in Monte Carlo and the USA lined up\
+ , this is the first time to\ncatch Cillian live on stage.With\nappearances
+  in Monte Carlo and the USA lined up\, this is the first time to\ncatch Ci
+ llian live on stage.His\nshow features his special guest Ryland Petty from
+  America’s Got Talent.His\nshow features his special guest Ryland Petty 
+ from America’s Got Talent.His\nshow features his special guest Ryland Pe
+ tty from America’s Got Talent.Cillian\npromises to enchant and amaze aud
+ iences across the UK and Ireland with a show\nfor the entire family. Cill
+ ian\npromises to enchant and amaze audiences across the UK and Ireland wit
+ h a show\nfor the entire family. Cillian\npromises to enchant and amaze a
+ udiences across the UK and Ireland with a show\nfor the entire family. Si
+ mon\nCowell: ‘An Incredible Talent’Simon\nCowell:‘An Incredible Tale
+ nt’‘An Incredible Talent’We are on the site of Mary Hare School\, pl
+ ease stick to the public areas (the auditorium\, foyer\, grass and smoking
+  area to the left hand side of the venue entrance as you look at it).Doors
+  to the venue open an hour before the performance starts\, with the bar st
+ arting service at the same time. Doors to the auditorium usually open half
+  an hour before a performance. \nTickets can be purchased from the box off
+ ice (which is directly opposite the entrance doors) during opening hours (
+ 10am-4.30pm weekdays)\, as well as just before and during the show.\nOur b
+ ox office and bar accept both card and cash payments. Please note that the
+ re is no cash machine on site.\nFOR CARER AND ACCESS SEATS\, please call 0
+ 1635 244 246 – or email boxoffice@arlingtonarts.co.uk.\n\nTickets can be
+  purchased from the box office (which is directly opposite the entrance do
+ ors) during opening hours (10am-4.30pm weekdays)\, as well as just before 
+ and during the show.\nOur box office and bar accept both card and cash pay
+ ments. Please note that there is no cash machine on site.\nFOR CARER AND A
+ CCESS SEATS\, please call 01635 244 246 – or email boxoffice@arlingtonar
+ ts.co.uk.\nTickets can be purchased from the box office (which is directly
+  opposite the entrance doors) during opening hours (10am-4.30pm weekdays)\
+ , as well as just before and during the show.Our box office and bar accept
+  both card and cash payments. Please note that there is no cash machine on
+  site.FOR CARER AND ACCESS SEATS\, please call 01635 244 246 – or email 
+ boxoffice@arlingtonarts.co.uk.
+IMAGE:https://dc40ra2rfm3rp.cloudfront.net/as-assets/variants/6yslfjgajj8h
+ 3jpk5pi9b8s81uur/294362d2878890fe167497bc1bbfe533f8178e7563017132ec259173a
+ 2d4e4be
+LOCATION:Arlington Arts Centre
+URL:https://arlingtonarts.ticketsolve.com/ticketbooth/shows/873637959
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fleetwood Bac
+DTSTART:20240726T190000
+DTEND:20240726T213000
+DTSTAMP:20240102T230539Z
+UID:7f760b7b-4909-4955-a7a8-51a70957bc35
+CREATED:20240102T230539Z
+DESCRIPTION:Details Page: https://arlingtonarts.ticketsolve.com/ticketboot
+ h/shows/873638298\n\nRow F may have a restricted view. To find out more in
+ formation please visit our seating plan page.Endorsed\nby Mick Fleetwood 
+ himself FLEETWOOD BAC were the world’s first Fleetwood Mac\nTribute Band
+ \, the only Mac tribute to authentically replicate the classic\n‘Rumours
+ ’ line-up.seating plan page.Endorsed\nby Mick Fleetwood himself FLEETWOO
+ D BAC were the world’s first Fleetwood Mac\nTribute Band\, the only Mac 
+ tribute to authentically replicate the classic\n‘Rumours’ line-up.Over
+  the years they have\nreceived rave reviews from ‘The Stage’ newspaper
+ \, the U.K.s leading Fleetwood\nMac fansites\, the official Stevie Nicks w
+ ebsite\; and from ecstatic audiences\nwherever the band played\, wowing au
+ diences as far afield as Dubai\, St. Tropez\,\nthe Cayman Islands and Mont
+ e Carlo\, and twice selling out the world-famous\nMinack Theatre in Cornwa
+ ll. Over the years they have\nreceived rave reviews from ‘The Stage’ n
+ ewspaper\, the U.K.s leading Fleetwood\nMac fansites\, the official Stevie
+  Nicks website\; and from ecstatic audiences\nwherever the band played\, w
+ owing audiences as far afield as Dubai\, St. Tropez\,\nthe Cayman Islands 
+ and Monte Carlo\, and twice selling out the world-famous\nMinack Theatre i
+ n Cornwall. Fleetwood Bac have also been\nrated by The Times newspaper as 
+ one of the U.K.’s top 5 tributes\, alongside The\nBootleg Beatles\, Bjor
+ n Again and the Counterfeit Stones. Fleetwood Bac have also been\nrated by
+  The Times newspaper as one of the U.K.’s top 5 tributes\, alongside The
+ \nBootleg Beatles\, Bjorn Again and the Counterfeit Stones. Fans include o
+ riginal Mac\nbassist and biographer Bob Brunning\, who joined the band sev
+ eral times on\nstage\, and Peter Green’s official biographer Martin Celm
+ ins. Fans include original Mac\nbassist and biographer Bob Brunning\, who 
+ joined the band several times on\nstage\, and Peter Green’s official bio
+ grapher Martin Celmins. The sound\, the look\, the\nmystical atmosphere an
+ d on-stage chemistry are all portrayed with the passion\nand energy that g
+ ot the seal of approval from ‘Big Daddy’ Mick\, and built up an\nexcel
+ lent reputation amongst Mac fans through numerous tours\, festival\nappear
+ ances\, corporate events and TV and radio slots all over the U.K. and\nEur
+ ope. We are on the site of Mary Hare School\, please stick to the public a
+ reas (the auditorium\, foyer\, grass and smoking area to the left hand sid
+ e of the venue entrance).The sound\, the look\, the\nmystical atmosphere a
+ nd on-stage chemistry are all portrayed with the passion\nand energy that 
+ got the seal of approval from ‘Big Daddy’ Mick\, and built up an\nexce
+ llent reputation amongst Mac fans through numerous tours\, festival\nappea
+ rances\, corporate events and TV and radio slots all over the U.K. and\nEu
+ rope. We are on the site of Mary Hare School\, please stick to the public 
+ areas (the auditorium\, foyer\, grass and smoking area to the left hand si
+ de of the venue entrance).Doors to the venue open an hour before the perfo
+ rmance starts\, with the bar starting service at the same time. Doors to t
+ he auditorium usually open half an hour before a performance.Tickets can b
+ e purchased from the box office (which is directly opposite the entrance d
+ oors) during opening hours (10am-4.30pm weekdays)\, as well as just before
+  and during the show.Our box office and bar accept both card and cash paym
+ ents. Please note that there is no cash machine on site.FOR CARER AND ACCE
+ SS SEATS\, please call 01635 244 246 – or email boxoffice@arlingtonarts.
+ co.uk.
+IMAGE:https://dc40ra2rfm3rp.cloudfront.net/as-assets/variants/ozeb3zwac07e
+ js9lh4qovuaq16vt/294362d2878890fe167497bc1bbfe533f8178e7563017132ec259173a
+ 2d4e4be
+LOCATION:Arlington Arts Centre
+URL:https://arlingtonarts.ticketsolve.com/ticketbooth/shows/873638298
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Moonage: The Best of Bowie Tribute Band
+DTSTART:20240907T000000
+DTEND:20240907T000000
+DTSTAMP:20240102T230540Z
+UID:e094ee3a-807e-42fc-bb56-2ab6302abdbf
+CREATED:20240102T230540Z
+DESCRIPTION:Details Page: https://arlingtonarts.ticketsolve.com/ticketboot
+ h/shows/873642275\n\nMoonage\, the Best Of Bowie Tribute Band\, comprises 
+ seven excellent musicians\, each with decades of experience.Moonage\, the 
+ Best Of Bowie Tribute Band\, comprises seven excellent musicians\, each wi
+ th decades of experience.It is their collective talents and passion for gr
+ eat music that makes Moonage one of the best live tribute acts around and 
+ the most exciting and genuine Bowie tribute band out there.It is their col
+ lective talents and passion for great music that makes Moonage one of the 
+ best live tribute acts around and the most exciting and genuine Bowie trib
+ ute band out there.The band performs David Bowie's material from across th
+ ree decades\, selecting some of the best album tracks as well as those  a
+ ll-important\, classic hits.The band performs David Bowie's material from 
+ across three decades\, selecting some of the best album tracks as well as 
+ those  all-important\, classic hits.Moonage. The Best Of Bowie Tribute Ba
+ nd Moonage. The Best Of Bowie Tribute Band We are on the site of Mary Ha
+ re School\, please stick to the public areas (the auditorium\, foyer\, gra
+ ss and smoking area to the left hand side of the venue entrance as you loo
+ k at it).\nDoors to the venue open an hour before the performance starts\,
+  with the bar starting service at the same time. Doors to the auditorium u
+ sually open half an hour before a performance.\nTickets can be purchased f
+ rom the box office (which is directly opposite the entrance doors) during 
+ opening hours (10am-4.30pm weekdays)\, as well as just before and during t
+ he show.\nOur box office and bar accept both card and cash payments. Pleas
+ e note that there is no cash machine on site.\nFOR CARER AND ACCESS SEATS\
+ , please call 01635 244 246 – or email boxoffice@arlingtonarts.co.uk.\nD
+ oors to the venue open an hour before the performance starts\, with the ba
+ r starting service at the same time. Doors to the auditorium usually open 
+ half an hour before a performance.Tickets can be purchased from the box of
+ fice (which is directly opposite the entrance doors) during opening hours 
+ (10am-4.30pm weekdays)\, as well as just before and during the show.Our bo
+ x office and bar accept both card and cash payments. Please note that ther
+ e is no cash machine on site.FOR CARER AND ACCESS SEATS\, please call 0163
+ 5 244 246 – or email boxoffice@arlingtonarts.co.uk.
+IMAGE:https://dc40ra2rfm3rp.cloudfront.net/as-assets/variants/pk1zb8s1lml8
+ qvqdcshhtm1minre/294362d2878890fe167497bc1bbfe533f8178e7563017132ec259173a
+ 2d4e4be
+LOCATION:Arlington Arts Centre
+URL:https://arlingtonarts.ticketsolve.com/ticketbooth/shows/873642275
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Wishbone Ash
+DTSTART:20241023T190000
+DTEND:20241023T213000
+DTSTAMP:20240102T230541Z
+UID:e8b16ede-e0de-4e4e-bad3-2f9c3c339317
+CREATED:20240102T230541Z
+DESCRIPTION:Details Page: https://arlingtonarts.ticketsolve.com/ticketboot
+ h/shows/873642146\n\nFollowing the outstanding response to their recent 
+ “Live Dates Live” tour - in which the band celebrated 50 years of thei
+ r seminal multi-million selling live album - Wishbone Ash return with a sh
+ ow featuring songs from its follow-up… Live Dates 2. Experience the lege
+ ndary band - whose iconic twin-guitar sound inspired the likes of Thin Liz
+ zy\, Judas Priest & Iron Maiden - performing a stellar set that also inclu
+ des much-loved classics from a remarkable back catalogue spanning an aston
+ ishing 55 years! Definitely one not to be missed!\nWe are on the site of M
+ ary Hare School\, please stick to the public areas (the auditorium\, foyer
+ \, grass and smoking area to the left hand side of the venue entrance as y
+ ou look at it).\n\n\nDoors to the venue open an hour before the performanc
+ e starts\, with the bar starting service at the same time. Doors to the au
+ ditorium usually open half an hour before a performance.\n\nTickets can be
+  purchased from the box office (which is directly opposite the entrance do
+ ors) during opening hours (10am-4.30pm weekdays)\, as well as just before 
+ and during the show. Our box office and bar accept both card and cash paym
+ ents.Please note that there is no cash machine on site. FOR CARER AND ACCE
+ SS SEATS\, please call 01635 244 246 – or email boxoffice@arlingtonarts.
+ co.uk.\n\nWe are on the site of Mary Hare School\, please stick to the pub
+ lic areas (the auditorium\, foyer\, grass and smoking area to the left han
+ d side of the venue entrance as you look at it).\n\nDoors to the venue ope
+ n an hour before the performance starts\, with the bar starting service at
+  the same time. Doors to the auditorium usually open half an hour before a
+  performance.\n\nTickets can be purchased from the box office (which is di
+ rectly opposite the entrance doors) during opening hours (10am-4.30pm week
+ days)\, as well as just before and during the show. Our box office and bar
+  accept both card and cash payments.Please note that there is no cash mach
+ ine on site. FOR CARER AND ACCESS SEATS\, please call 01635 244 246 – or
+  email boxoffice@arlingtonarts.co.uk.\nDoors to the venue open an hour bef
+ ore the performance starts\, with the bar starting service at the same tim
+ e. Doors to the auditorium usually open half an hour before a performance.
+ \nTickets can be purchased from the box office (which is directly opposite
+  the entrance doors) during opening hours (10am-4.30pm weekdays)\, as well
+  as just before and during the show. Our box office and bar accept both ca
+ rd and cash payments.Please note that there is no cash machine on site. FO
+ R CARER AND ACCESS SEATS\, please call 01635 244 246 – or email boxoffic
+ e@arlingtonarts.co.uk.Tickets can be purchased from the box office (which 
+ is directly opposite the entrance doors) during opening hours (10am-4.30pm
+  weekdays)\, as well as just before and during the show. Our box office an
+ d bar accept both card and cash payments.
+IMAGE:https://dc40ra2rfm3rp.cloudfront.net/as-assets/variants/aausbmomhu7l
+ x0dxcokkghajqds1/294362d2878890fe167497bc1bbfe533f8178e7563017132ec259173a
+ 2d4e4be
+LOCATION:Arlington Arts Centre
+URL:https://arlingtonarts.ticketsolve.com/ticketbooth/shows/873642146
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sounds Of The 60s
+DTSTART:20241108T190000
+DTEND:20241108T213000
+DTSTAMP:20240102T230542Z
+UID:ae0eac1a-0264-4737-b3bc-669427f213cf
+CREATED:20240102T230542Z
+DESCRIPTION:Details Page: https://arlingtonarts.ticketsolve.com/ticketboot
+ h/shows/873640919\n\nRow A may have a restricted view. To find out more pl
+ ease see our seating plan page.Row A may have a restricted view. To find 
+ out more please see our seating plan page.Experience THE Sixties show tha
+ t's wowing audiences around the world\, selling out and headlining venues 
+ from the Palladium to Old Trafford - with the spectacular sounds of THE ZO
+ OTS!Experience THE Sixties show that's wowing audiences around the world\,
+  selling out and headlining venues from the Palladium to Old Trafford - wi
+ th the spectacular sounds of THE ZOOTS!THE ZOOTS are here to make your who
+ le family bop to the '60s beats that everybody loves - with legendary numb
+ ers by The Beatles\, The Stones\, The Monkees\, The Beach Boys\, The Kinks
+ \, The Searchers\, The Four Seasons\, Elvis and dozens more of your favour
+ ite artists. Feel the groove that's thrilling audiences of stage and scree
+ n\, in more than 30 countries! Discover why national critics call THE ZOOT
+ S "impressive"\, "authentic"\, and "impossible not to like"! THE ZOOTS ar
+ e here to make your whole family bop to the '60s beats that everybody love
+ s - with legendary numbers by The Beatles\, The Stones\, The Monkees\, The
+  Beach Boys\, The Kinks\, The Searchers\, The Four Seasons\, Elvis and doz
+ ens more of your favourite artists. Feel the groove that's thrilling audie
+ nces of stage and screen\, in more than 30 countries! Discover why nationa
+ l critics call THE ZOOTS "impressive"\, "authentic"\, and "impossible not 
+ to like"! We are on the site of Mary Hare School\, please stick to the pu
+ blic areas (the auditorium\, foyer\, grass and smoking area to the left ha
+ nd side of the venue entrance as you look at it).\nDoors to the venue open
+  an hour before the performance starts\, with the bar starting service at 
+ the same time. Doors to the auditorium usually open half an hour before a 
+ performance.\nTickets can be purchased from the box office (which is direc
+ tly opposite the entrance doors) during opening hours (10am-4.30pm weekday
+ s)\, as well as just before and during the show.\nOur box office and bar a
+ ccept both card and cash payments. Please note that there is no cash machi
+ ne on site.\nFOR CARER AND ACCESS SEATS\, please call 01635 244 246 – or
+  email boxoffice@arlingtonarts.co.uk.\nDoors to the venue open an hour bef
+ ore the performance starts\, with the bar starting service at the same tim
+ e. Doors to the auditorium usually open half an hour before a performance.
+ Tickets can be purchased from the box office (which is directly opposite t
+ he entrance doors) during opening hours (10am-4.30pm weekdays)\, as well a
+ s just before and during the show.Our box office and bar accept both card 
+ and cash payments. Please note that there is no cash machine on site.FOR C
+ ARER AND ACCESS SEATS\, please call 01635 244 246 – or email boxoffice@a
+ rlingtonarts.co.uk.
+IMAGE:https://dc40ra2rfm3rp.cloudfront.net/as-assets/variants/jozh9ba0sgah
+ 1pzp4wrey1tq5a43/294362d2878890fe167497bc1bbfe533f8178e7563017132ec259173a
+ 2d4e4be
+LOCATION:Arlington Arts Centre
+URL:https://arlingtonarts.ticketsolve.com/ticketbooth/shows/873640919
 END:VEVENT
 END:VCALENDAR
