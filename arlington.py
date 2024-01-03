@@ -132,9 +132,6 @@ for listing in listings:
     # Add the event to the calendar
     cal.add_component(event)
 
-driver.execute_script("window.scrollTo({ top: 1000, left: 0, behavior: 'smooth'});")
-sleep(5)
-
 driver.quit()
 
 ics_file = open('arlington.ics', 'wb')

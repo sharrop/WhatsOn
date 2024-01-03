@@ -5,7 +5,12 @@ from selenium.webdriver.common.by import By
 from bs4 import BeautifulSoup
 import json
 from datetime import datetime
+from datetime import time
 import re
+from icalendar import Calendar, Event, vBinary
+import uuid
+from datetime import timedelta
+import traceback
 
 service = Service('C:\\Users\\Steve\\Desktop\\dev\\WhatsOn\\chromedriver.exe')
 service.start()
@@ -13,11 +18,18 @@ service.start()
 driver = webdriver.Remote(service.service_url)
 driver.get('https://cornexchangenew.com/all-events/');
 
-# Open an output file to write the details as a CSV file
-out_file = open('events.csv', 'w')
+# iCalendar library to generate an iCal (.ics) file
+cal = Calendar()
+cal.add('VERSION', '2.0')
+cal.add('PRODID', '-//Newbury Corn Exchange//')
+cal.add('X-WR-CALNAME', 'Newbury Corn Exchange')
+cal.add('X-WR-TIMEZONE', 'Europe/London')
+cal.add('X-WR-CALDESC', 'Events at The Newbury Corn Exchange')
+cal.add('X-WR-RELCALTYPE', 'PUBLIC')
+cal.add('X-WR-RELCALNAME', 'Newbury Corn Exchange')
+cal.add('X-WR-RELCALURL', 'https://cornexchangenew.com/all-events/')
+cal.add('X-WR-RELCALPRIV', 'PUBLIC')
 
-# Write the header row to the CSV file
-out_file.write('Subject,Start Date,Start Time,End Date,All Day Event,Description,Location,Private\n')
 
 listing_page = True
 while listing_page:
@@ -27,20 +39,25 @@ while listing_page:
     listings = soup.find('ul', attrs = {'class': 'row listing__item__list small-up-1 medium-up-1'})
     for listing in listings:
         try:
+            event = Event()
+            # Generate a unique ID for each event
+            event.add('UID', uuid.uuid4())           # Unique ID for the Event
+            event.add('CREATED', datetime.now())     # When the Event was created
+            event.add('DTSTAMP', datetime.now())     # When the Event was last modified
+
             item = listing.article
-#            div = item.div
             subject_node = item.find('h2', attrs = {'class': 'listing__item__title'})
-            if subject_node:
-                subject = item.find('h2', attrs = {'class': 'listing__item__title'}).text
+            if subject_node and subject_node.text:
+                subject = subject_node.text
             else:
                 subject = 'Not Stated'
+            event.add('SUMMARY', subject)
 
             event_url = item.div.a.get("href")
             event_date_node = item.find('p', attrs = {'class': 'listing__item__date'})
             if event_date_node:
                 event_date = event_date_node.text.strip()
                 # Convert the event date to a date object from: "Friday 24th November 2023"
-                # TODO: Need to deal with: "Wednesday 13th December 2023 — Tuesday 2nd January 2024"
                 # Strip 'th', 'rd', 'nd', 'st'from the date string, and convert to a date object.
                 event_date = event_date.replace('th ', ' ')
                 event_date = event_date.replace('st ', ' ') #TODO: Kills 'August'
@@ -50,14 +67,13 @@ while listing_page:
                     date_text = event_date.split('—')
                     start = date_text[0].strip()
                     end = date_text[1].strip()
-                    # Need to put these in the format: 05/30/2020
+                    print(f'** There is a date range stated for [{subject}] from [{start}] to [{end}] **')
+
                     captured_start_date = datetime.strptime(start, '%A %d %B %Y').date()
-                    start_date = captured_start_date.strftime('%m/%d/%Y')
                     captured_end_date = datetime.strptime(end, '%A %d %B %Y').date()
-                    end_date = captured_end_date.strftime('%m/%d/%Y')
                 else:
-                    captured_date = str(datetime.strptime(event_date, '%A %d %B %Y').date())
-                    start_date = end_date = captured_end_date.strftime('%m/%d/%Y')
+                    print(f'** There is single date stated for [{subject}] at [{event_date}] **')
+                    captured_start_date = captured_end_date = datetime.strptime(event_date, '%A %d %B %Y').date()
             else:
                 raise Exception(f'No event date specified for [{subject}] -- skipping')
 
@@ -66,6 +82,7 @@ while listing_page:
                 event_location = venue_node.text.strip()
             else:
                 event_location = 'Not Stated'
+            event.add('LOCATION', event_location)
 
             # Get the detailed event description for event time, date and price
             driver.get(event_url);
@@ -74,12 +91,31 @@ while listing_page:
             event_time_node = event_soup.find('a', attrs = {'data-tooltip-content': '#tooltip_content__1'})
             if (event_time_node):
                 event_time = event_time_node.text.strip()
+                print(f'** There is a time stated for [{subject}] on [{event_date}] at [{event_time}] **')
                 # Remove all text beyond the am or pm from the time string
                 event_time = re.sub(r'm.*$', 'm', event_time, flags=re.S)
-                event_time = event_time.replace('am', ' AM')
-                event_time = event_time.replace('pm', ' PM')
+                time_text = re.findall(r'\d{1,2}:\d\d', event_time)
+                if time_text:
+                    hours = time_text[0].split(':')[0]
+                    if event_time.find('pm') != -1:
+                        hours = int(hours) + 12
+                    minutes = time_text[0].split(':')[1]
+                    full_datetime = datetime.combine(
+                        captured_start_date,
+                        time(hour=int(hours), minute=int(minutes))
+                        )
+                else:
+                    print(f'** Cannot parse a time from [{event_time}], so just using the date **')
+                    # Don't have a time specified, so just use the start date
+                    full_datetime = captured_start_date
+                event.add('DTSTART', full_datetime)
+                # Assume the event in 2 hours long
+                event.add('DTEND', full_datetime + timedelta(hours=2))
             else:
-                event_time = 'Not Stated'
+                # Don't have a time specified, so just use the start date
+                print(f'** Cannot parse a time from [{event_time}], so just using the date **')
+                event.add('DTSTART', captured_start_date)
+                event.add('DTEND', captured_start_date)
 
             price_text = price.text.strip()
             description = item.find('div', attrs = {'class': 'listing__item__summary'}).p.text
@@ -89,23 +125,28 @@ while listing_page:
                 price_text = price_text.split('/')
                 prices = []
                 for p in price_text:
-                    prices.append(p.strip())
+                    prices.append(p.strip() + '\n')
                 price_text = prices
             else:
                 price_text = [price_text]
 
-            full_description = f'{description}\\nPrice: {price_text}\\nDetails: {event_url} \\n\\nRecorded at {datetime.now()}'
-            line_item = f'"{subject}",{start_date},{event_time},{end_date},False,"{full_description}","{event_location}",False'
-            out_file.write(line_item + '\n')
-            print(line_item)
+            full_description = f'Details: {event_url}\n\n{description}\n\nPrice: {price_text}'
+            event.add('DESCRIPTION', f'{full_description}')
+
+            # Add the event to the calendar
+            # print(f'Adding New Event:\n{event}\n==========================================')
+            cal.add_component(event)
 
         except Exception as e:
-            print(f'Problem parsing listing [{listing}]: {e}')
+            print(f'**Problem parsing listing [{listing.prettify()}]: {e}: [{traceback.print_exc()}]')
 
         # Find more pages
         listing_page = soup.find('a', attrs = {'class': 'pagination__item ias-next btn btn--primary btn--small btn--next'})
         if listing_page:
             driver.get(listing_page.get('href'))
 
-out_file.close()
 driver.quit()
+print(f'Calendar [{cal.name}] has [{len(cal.items())}] entries')
+ics_file = open('cornExchange.ics', 'wb')
+ics_file.write(cal.to_ical())
+ics_file.close()
