@@ -3,7 +3,7 @@ Scanning various event websites to compile a list of what's on, where, and when 
 
 Ultimately I intend to:
 1. Cover all event venues in/around the area
-2. Host the ICS files for linking to calendars (GitHub, or S3)
+2. Host the ICS files for linking or import to calendars (GitHub, or S3)
 3. Build a pipeline to periodically build, validate and release the ICS files
 
 ## Venues
