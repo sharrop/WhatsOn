@@ -92,12 +92,17 @@ for listing in listings:
     description_node = event_soup.find('div', attrs = {'class': 'overflow-hidden max-h-60 cursor-pointer default-style'})
     if description_node and description_node.div:
         description_node = description_node.div
-        sections = description_node.find_all()
-        full_text = ''
+        sections = description_node.find_all(recursive=False)
+        full_text = description = ''
         for element in sections:
-            if element.text:
-                full_text += element.text
-        description += full_text.strip()
+            clean_text = element.get_text()
+            if clean_text:
+                full_text += clean_text
+            else:
+                if element.name == 'br':
+                    full_text += '\n'
+        description += full_text
+        print(f'** Final description: [{description}]]')
     else:
         description += f'No detailed description found [{description_node}] for [{subject}]'
     event.add('DESCRIPTION', f'{description}')
