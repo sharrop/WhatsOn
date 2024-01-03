@@ -1,5 +1,5 @@
 # WhatsOn
-Scanning various event websites to compile a list of what's on, where, and when in the Newbury area. This uses [ChromeDriver](https://googlechromelabs.github.io/chrome-for-testing/#stable) to navigate the pages, and [Beautiful Soup](https://en.wikipedia.org/wiki/Beautiful_Soup_(HTML_parser)) to parse the HTML, then the [iCalendar](https://pypi.org/project/icalendar/) Python library to form an [RFC5545](https://www.ietf.org/rfc/rfc5545.txt) compliant calendar file (.ics) that can be imported or linked to from Outlook, Google Calendar etc.
+Scanning various event websites to compile a list of what's on, where, and when in the Newbury area. This uses [ChromeDriver](https://googlechromelabs.github.io/chrome-for-testing/#stable) to navigate the pages, and [Beautiful Soup](https://en.wikipedia.org/wiki/Beautiful_Soup_(HTML_parser)) to parse the HTML, then the [iCalendar](https://pypi.org/project/icalendar/) Python library to form an [RFC5545](https://www.ietf.org/rfc/rfc5545.txt) compliant calendar (.ics) file that can be imported or linked to from [MS-Outlook](https://support.microsoft.com/en-us/office/import-calendars-into-outlook-8e8364e1-400e-4c0f-a573-fe76b5a2d379), [Google Calendar](https://support.google.com/calendar/answer/37118?hl=en&co=GENIE.Platform%3DDesktop) etc.
 
 Ultimately I intend to:
 1. Cover many event venues in/around my area
