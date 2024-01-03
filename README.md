@@ -1,25 +1,33 @@
 # WhatsOn
-Scanning event websites to compile a hyper-personalised list of what's on, where, and when in the area
+Scanning various event websites to compile a list of what's on, where, and when in the Newbury area. This uses [ChromeDriver](https://googlechromelabs.github.io/chrome-for-testing/#stable) to navigate the pages, and [Beautiful Soup](https://en.wikipedia.org/wiki/Beautiful_Soup_(HTML_parser)) to parse the HTML, then the [iCalendar](https://pypi.org/project/icalendar/) Python library to form an [RFC5545](https://www.ietf.org/rfc/rfc5545.txt) compliant calendar file (.ics) that can be imported or linked to from Outlook, Google Calendar etc.
 
-As a first attempt, this has been done by web scraping the [Newbury Corn Exchange events pages](https://cornexchangenew.com/all-events/) and producing a CSV file according to Google's calendar import format. While this works, the CSV format is limiting (no newlines, formatting, media). I aim to switch to [iCal format](https://datatracker.ietf.org/doc/html/rfc5545) output, which would also allow the resultant calendar to be publically hosted (eg: AWS-S3) and so linked by others. This also allows for a periodic update without having to repeat an explicit import.
+Ultimately I intend to:
+1. Cover many event venues in/around my area
+2. Host the resutlant ICS files for linking to calendars (GitHub, or S3)
+3. Build a robust pipeline to periodically build, validate and release the ICS files
 
-I used the [ChromeDriver](https://googlechromelabs.github.io/chrome-for-testing/#stable) to drive a browser onto the web pages, as most events sites will block a direct request.
+## Venues
+Venues and their event websites that I have in mind include:
 
-## Getting Started
-
-These instructions will give you a copy of the project up and running on
-your local machine for development and testing purposes. See deployment
-for notes on deploying the project on a live system.
+| Venue      | Website | First Attempt |
+| ----------- | ----------- | ----------- |
+| Corn Exchange      | https://cornexchangenew.com/events/ |  |
+| Arlington Arts Centre   | https://arlingtonarts.ticketsolve.com/ticketbooth/shows?i=64 | [arlington.ics](https://github.com/sharrop/WhatsOn/blob/main/arlington.ics) |
+| Ace Space | https://acespace.org.uk/events/ | |
+| The WaterMill | https://www.watermill.org.uk/ | |
+| Shaw House | https://booking.westberks.gov.uk/heritage_events.html | |
+| The Mount, Wasing | https://www.wasing.co.uk/events/ | |
+| Welford Park | https://www.welfordpark.co.uk/events/ | |
+| Highclere Castle | https://www.highclerecastle.co.uk/events/ | |
 
 ### Prerequisites
 
 Requirements for the software and other tools to build, test and push 
 - Download the [latest ChromeDriver executable](https://googlechromelabs.github.io/chrome-for-testing/#stable) for your platform
-- Download this repo
-- Pip Install the requirements (sorry - no requirements.txt yet) 
+- Download/Fork this repo
+- Pip Install the requirements (sorry - no requirements.txt yet)
+- In these early days I am just writing bespoke ***place***.py files that individually generate a ***place***.ics file. Each can be invoked with:
 
-### Sample Tests
-
-The web-site(s) and scapers are initially hard-coded, so just:
-
-    python main.py
+```sh
+python arlington.py
+```
