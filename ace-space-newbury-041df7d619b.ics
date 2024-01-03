@@ -1,0 +1,95 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ace Space Newbury - ECPv6.2.9//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Ace Space Newbury
+X-ORIGINAL-URL:https://acespace.org.uk
+X-WR-CALDESC:Events for Ace Space Newbury
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-Robots-Tag:noindex
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:BST
+DTSTART:20240331T010000
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:GMT
+DTSTART:20241027T010000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20240120T200000
+DTEND;TZID=Europe/London:20240120T223000
+DTSTAMP:20240103T121049
+CREATED:20230729T235641Z
+LAST-MODIFIED:20230729T235641Z
+UID:1083-1705780800-1705789800@acespace.org.uk
+SUMMARY:Simon Mayor and friends
+DESCRIPTION:The welcome return of Simon Mayor to Newbury.  This time with his new band. \nDetails and Tickets
+URL:https://acespace.org.uk/event/simon-mayor-and-friends/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20240224T200000
+DTEND;TZID=Europe/London:20240224T223000
+DTSTAMP:20240103T121049
+CREATED:20230812T101606Z
+LAST-MODIFIED:20231026T111802Z
+UID:1093-1708804800-1708813800@acespace.org.uk
+SUMMARY:Steve Knightley & Phil Beer
+DESCRIPTION:Two of the best known\, and respected\, folk in the folk world.  As Show of Hands they have won just every folk award going and filled the Alert hall 5 times \nSold Out.  Go direct to ACE Space to add your name to the reserve lost
+URL:https://acespace.org.uk/event/steve-knightley-phil-beer/
+LOCATION:ACE Space\, St Nicholas Road\, Newbury\, RG14 5NG
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20240316T200000
+DTEND;TZID=Europe/London:20240316T223000
+DTSTAMP:20240103T121049
+CREATED:20230812T102141Z
+LAST-MODIFIED:20230812T102141Z
+UID:1095-1710619200-1710628200@acespace.org.uk
+SUMMARY:Reg Meuross
+DESCRIPTION:One of the UK’s finest songwriters.  A great voice and absolute master narrator of his songs. \nDetails to follow\, tickets currently only available direct from ACE Space
+URL:https://acespace.org.uk/event/reg-meuross/
+LOCATION:ACE Space\, St Nicholas Road\, Newbury\, RG14 5NG
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20240406T200000
+DTEND;TZID=Europe/London:20240406T223000
+DTSTAMP:20240103T121049
+CREATED:20231014T122645Z
+LAST-MODIFIED:20231014T122831Z
+UID:1116-1712433600-1712442600@acespace.org.uk
+SUMMARY:Track Dogs
+DESCRIPTION:All the way from Madrid the finest Americana\, with a Latin twist\, you could ever hope to hear.  Making their third appearance at ACE Space – we love em! \nDetails to follow\, tickets currently only available direct from ACE Space
+URL:https://acespace.org.uk/event/track-dogs-2/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20240420T200000
+DTEND;TZID=Europe/London:20240420T223000
+DTSTAMP:20240103T121049
+CREATED:20231014T124624Z
+LAST-MODIFIED:20231014T124624Z
+UID:1121-1713643200-1713652200@acespace.org.uk
+SUMMARY:The Lost Trades
+DESCRIPTION:From Wiltshire The Lost Trades are a vocal harmony trio with a cool Laurel Canyon vibe. \nThe Lost Trades are a vocal harmony trio with a cool Laurel Canyon vibe. \nDetails to follow\, tickets currently only available direct from ACE Space \n.
+URL:https://acespace.org.uk/event/the-lost-trades/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Europe/London:20240524T200000
+DTEND;TZID=Europe/London:20240524T223000
+DTSTAMP:20240103T121049
+CREATED:20231014T123919Z
+LAST-MODIFIED:20231014T123919Z
+UID:1119-1716580800-1716589800@acespace.org.uk
+SUMMARY:The Hackles
+DESCRIPTION:The Oregon based trio made such an impact at their 2023 Celtic Connections performance that they have been persuaded back to tour the UK. Quality Americana with 3-part harmonies \nDetails to follow\, tickets currently only available direct from ACE Space
+URL:https://acespace.org.uk/event/the-hackles/
+END:VEVENT
+END:VCALENDAR
