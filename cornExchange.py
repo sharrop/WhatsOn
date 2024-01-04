@@ -1,18 +1,32 @@
-import time
+from time import sleep
+import re
+import json
+from datetime import datetime, timedelta, time
+import uuid
+import traceback
+import os
+import sys
+
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
 from bs4 import BeautifulSoup
-import json
-from datetime import datetime
-from datetime import time
-import re
 from icalendar import Calendar, Event, vBinary
-import uuid
-from datetime import timedelta
-import traceback
 
-service = Service('C:\\Users\\Steve\\Desktop\\dev\\WhatsOn\\chromedriver.exe')
+
+# Check existance of executable ChromeDriver
+DRIVER='.\\chromedriver.exe'
+if not os.path.exists(DRIVER):
+    print(f'ERROR: ChromeDriver [{DRIVER}] not found')
+    sys.exit(1)
+if not os.path.isfile(DRIVER):
+    print('ERROR: ChromeDriver [{DRIVER}] is not a file')
+    sys.exit(1)
+if not os.access(DRIVER, os.X_OK):
+    print('ERROR: ChromeDriver [{DRIVER}] is not executable')
+    sys.exit(1)
+
+service = Service(DRIVER)
 service.start()
 
 driver = webdriver.Remote(service.service_url)
