@@ -11,9 +11,9 @@ Venues and their event websites that I have in mind include:
 
 | Venue      | Website | First Attempt |
 | ----------- | ----------- | ----------- |
-| Corn Exchange      | https://cornexchangenew.com/events/ | [cornExchange.ics](https://github.com/sharrop/WhatsOn/blob/main/cornExchange.ics) |
-| Arlington Arts Centre   | https://arlingtonarts.ticketsolve.com/ticketbooth/shows?i=64 | [arlington.ics](https://github.com/sharrop/WhatsOn/blob/main/arlington.ics) |
-| Ace Space<br/>(self-published) | https://acespace.org.uk/events/ | [ace-space-newbury-041df7d619b.ics](https://github.com/sharrop/WhatsOn/blob/main/ace-space-newbury-041df7d619b.ics) |
+| Corn Exchange      | https://cornexchangenew.com/events/ | [cornExchange.ics](https://github.com/sharrop/WhatsOn/blob/main/ics/cornExchange.ics) |
+| Arlington Arts Centre   | https://arlingtonarts.ticketsolve.com/ticketbooth/shows?i=64 | [arlington.ics](https://github.com/sharrop/WhatsOn/blob/main/ics/arlington.ics) |
+| Ace Space<br/>(self-published) | https://acespace.org.uk/events/ | [ace-space-newbury-041df7d619b.ics](https://github.com/sharrop/WhatsOn/blob/main/ics/ace-space-newbury-041df7d619b.ics) |
 | The WaterMill | https://www.watermill.org.uk/ | |
 | Shaw House | https://booking.westberks.gov.uk/heritage_events.html | |
 | The Mount, Wasing | https://www.wasing.co.uk/events/ | |
